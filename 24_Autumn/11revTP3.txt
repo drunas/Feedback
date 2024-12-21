@@ -2,12 +2,7 @@
 2	AvdiushkinGA
 3	AmarantidiMM
 4	BoykoVS
-5	VyskilSM	2
-
-	схема: нет питания и пути протекания коллекторного ток
-	схема: закорочена нагрузка
-	схема: эмиттерный резистор незашунтирован
-
+5	VyskilSM	5
 6	DmitrenkoTA	5
 7	ZimenkoDA	5
 8	KliukvinAD	2
