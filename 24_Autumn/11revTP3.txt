@@ -1,0 +1,26 @@
+1	AbdyldayevND
+2	AvdiushkinGA
+3	AmarantidiMM
+4	BoykoVS
+5	VyskilSM	2
+
+схема: нет питания и пути протекания коллекторного тока
+схема: закорочена нагрузка
+схема: эмиттерный резистор незашунтирован
+
+6	DmitrenkoTA	5
+7	ZimenkoDA	5
+8	KliukvinAD	2
+
+убогое размышление в начале расчёта параметров колебательной системы
+
+9	MelikhovSV	2
+
+формула для частоты колебаний по-прежнему не верна
+
+10	OgannisianAS	5
+11	PetruninGG	0
+12	PogorelovNM	5
+13	StepanovMarA	0
+14	TimokhinSA	5
+15	CheparinAM	5
