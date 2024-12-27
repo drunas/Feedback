@@ -1,0 +1,23 @@
+1	AbdyldayevND	
+2	AvdiushkinGA
+коммертарии для всех собригадников:
+
+
+числа в таблицах 1 и 2 не соответствуют друг другу
+на осциллограммах не добавлены постоянные составляющие
+амплитуда u_си подозрительно мала
+ДПФ даёт спектр, частоты которого не соответствуют частоте колебаний в работе
+
+3	AmarantidiMM
+4	BoykoVS
+5	VyskilSM	
+6	DmitrenkoTA	
+7	ZimenkoDA	
+8	KliukvinAD	
+9	MelikhovSV	
+10	OgannisianAS	
+11	PetruninGG	
+12	PogorelovNM	
+13	StepanovMarA	
+14	TimokhinSA	
+15	CheparinAM	
