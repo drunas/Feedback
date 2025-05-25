@@ -1,9 +1,9 @@
 ProkhorovVS
 LobovaVA
-TrishkinSL
-LiapidovskyaDS
+TrishkinSL	2
+LiapidovskyaDS	2
 StukalenkoYA
 BogomolovIA
-AmirovRusR
+AmirovRusR	2
 SkvortsovKK
 AbramovYarI
