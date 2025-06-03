@@ -10,3 +10,6 @@ BoykoVS	Thu, 27 Mar 2025 23:45:08	4BoykoVS1+.pdf
 ZimenkoDA	Wed, 23 Apr 2025 22:54:21	4ZimenkoDA1+.pdf
 TimokhinSA	Sun, 27 Apr 2025 13:45:37	4TimokhinSA1+.pdf
 %%%
+AvdiushkinGA	Sun, 01 Jun 2025 17:51:56	4AvdiushkinGA1+.pdf
+PetruninGG	Mon, 02 Jun 2025 18:18:38	=?iso-8859-5?B?vuLn8eIgu8Ag8DUucGRm?=
+%%%
