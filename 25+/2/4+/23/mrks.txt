@@ -1,11 +1,11 @@
-﻿SpiridonovAlV
-KashurkinII
-ShtyrovDO
-PetuninDA
-ZubkovAA
-TriglebovaVA
-LykoshevAP
-LykoshevTP
+﻿SpiridonovAlV	0
+KashurkinII	0
+ShtyrovDO	3
+PetuninDA	3
+ZubkovAA	3
+TriglebovaVA	0
+LykoshevAP	4
+LykoshevTP	4
 SamsonovRA
 RepinAA
 PeletskyAA
