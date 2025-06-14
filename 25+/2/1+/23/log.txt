@@ -10,3 +10,5 @@ TriglebovaVA_ZubkovAA_TriglebovaVA	Thu, 05 Jun 2025 23:55:18	2TriglebovaVA1+.pdf
 %%%
 KashurkinII_KashurkinII	Sun, 08 Jun 2025 15:26:20	2KashurkinII=.docx
 %%%
+LykoshevAP_LykoshevAP_LykoshevTP	Wed, 26 Mar 2025 21:55:41	2LykoshevAP1+.pdf
+%%%
