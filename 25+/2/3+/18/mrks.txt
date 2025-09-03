@@ -1,8 +1,0 @@
-DonevaUD	2	5
-KokunovIA	2	3
-KuznetsovMI
-LastochkinKE	2	3
-LesinNS	4
-MesiatsMS
-PonomarevaSY	4
-SolovyevaVA	2	5
