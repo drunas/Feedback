@@ -1,0 +1,13 @@
+		KM1	KM2	KM3	KM4	KM5
+1	AmarantidiMM	++++++	--+-++	-+++-+		
+2	BoykoVS	++++++	+++-++	++++++	---+++	
+3	GusevaVerS	++++++	++++++	++-+++		
+4	ZimenkoDA	++++++	-+++-+	++++++		
+5	KarasevNV	++++++	+-++-+	++---+		
+6	KaratayevaYN	++-+++	+-++-+	+++-++		
+7	KurmankulovB	++++++	++++++			
+8	LiubchenkoEM	++++++	--+-+-	++-+++		
+9	NovikovADm					
+10	PetruninGG	++++++	++----	------		
+11	FilatovYK	++++++	+++-++			
+12	YusupovAR	------	+---++	------		

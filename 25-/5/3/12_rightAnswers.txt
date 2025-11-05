@@ -1,0 +1,16 @@
+		KM1	KM2	KM3	KM4	KM5
+1	AliAim	------	++++++	------		
+2	ZhitnikovaYA	++++++	++++++	++++++		
+3	KalininaXN	++++++	++++++	++++-+	---+--	
+4	KozhevnikovaAO	++++++	++++++			
+5	KonYA	++++++	++++++			
+6	LozenkoVD	++++++	++++++	++++++	+++---	
+7	MalinovskyKA	++++++	++++++	++++++		
+8	MelikhovSV	++++++	++++++	+--+--		
+9	MoguchyIY	+----+	--+++-	-+++--		
+10	PogorelovNM	++++++	-+++++			
+11	TimokhinSA	++++++	+-++++	+++-++		
+12	KhanAR	++++++	++++++			
+13	KhtetP	++++--	++-+++	+---+-	----+-	
+14	CheparinAM	++++++	++++++	++-+++	+--+--	
+15	ChzhoZin	-+++-+	++-+++	------	-+---+	
