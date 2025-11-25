@@ -1,0 +1,32 @@
+		KM1	KM2	KM3	KM4	KM5
+1	BorisovNikS					
+2	BukalovIA	+++++-	+++-+-	--+++-	---+++	
+3	VorobyevIvA	++++++	-+-++-	++--++	++-+--	
+4	GoverdovskyAA	+++++-	+++++-	+-++++	-+-++-	
+5	DavydovAlexA					
+6	DanilovaAI	+-++-+	++--++	+-+-+-	+++---	
+7	DedovKS					
+8	DorofeevAnAl	++++++	++++++	-++++-	--+-++	
+9	YepifanovYL	++++--	--++++	+-+-++	-++--+	
+10	YermolovSA	++-+++	+-+++-	-+++++	+++---	
+11	ZakrevskyAlA	+++-++	+---++	--+-++	+++---	
+12	IlinaAAl	+++++-	++++++	+-++++	-+++--	
+13	KarpukhinIS	+++++-	------	+-++--	+-----	
+14	KozlovaYekY	++++++	++++++	+++++-	+++---	
+15	KondrashechkMD	++++++	-+++--	+++++-	++++-+	
+16	KosmachevMA	++++++	+-+++-	++--++	++++--	
+17	LoginovVlA	++-+++	++-+++	---+++	++---+	
+18	ManakovAP	---+++	+++-++	++++-+	+-+-+-	
+19	MokroguzNA	+-++++	+++-++	+++-++	-++--+	
+20	OsakovskyMV	++++++	++-++-	--+++-	+++--+	
+21	PelekhovaDP	++++++	++++++	-+++++	+--++-	
+22	PopovIViac					
+23	RyzhkinMA					
+24	SkorobogatovAO	++-+-+	++--++	+-+-++	-++--+	
+25	SobolevGA	++-++-	+-+-++	+++-+-	+---++	
+26	TarakanovMI		+-+++-	-+-+++	++-+--	
+27	TikhonovNikS	------	++++--	+----+	-+++--	
+28	UgarovLD	+-++++	+++-+-	+-+--+	--+-++	
+29	FilippovIN	++++++	++++++	-++++-	+--+-+	
+30	ShipinskyKS	++++++	--++++	+---++	--++-+	
+31	YukhnovskyAA	+-+++-	-+++++	---+--	---+--	

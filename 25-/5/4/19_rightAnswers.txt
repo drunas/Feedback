@@ -1,0 +1,3 @@
+		KM1	KM2	KM3	KM4	KM5
+1	VoznesenskyYV	++++++	++++++	++++++	--++-+	
+2	ZhdanovSN	++++++	+++-++	+-+-+-	-+++--	
