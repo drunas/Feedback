@@ -1,0 +1,25 @@
+		KM1	KM2	KM3	KM4	KM5
+1	BabinVV					
+2	BabkinIV					
+3	BereznikovVlA					
+4	BicharovaPR					
+5	BolonenkovaAA					
+6	VasiutinaAR					
+7	VatamaniukV					
+8	VytnovSS					
+9	GayevoyDA					
+10	KerimovEV					
+11	KucherovYS					
+12	LugovskyaMV					
+13	LukaninPV					
+14	MetaxaDK					
+15	PavlovDO					
+16	PershinaDA					
+17	SeleznevKK					
+18	SergeevASer					
+19	SmorchkovDS					
+20	StepkinGA					
+21	FokinGA					
+22	ChistovaAI					
+23	ShvetsYV					
+24	YaremchukYA					

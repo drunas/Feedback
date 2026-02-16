@@ -1,0 +1,18 @@
+		KM1	KM2	KM3	KM4	KM5
+1	AnkinMY					
+2	ApresianVL					
+3	BalabanovSA					
+4	BelenkovVI					
+5	DiakinNS					
+6	ZabelinYI					
+7	KirillovAnS					
+8	KostyrinAV					
+9	LeonovNikV					
+10	MakarychevID					
+11	MartirosianGA					
+12	PerelyginAV					
+13	PetrovVVl					
+14	PushkarevSS					
+15	TurdibekovIM					
+16	KhizhinVI					
+17	TsurkanVA					
