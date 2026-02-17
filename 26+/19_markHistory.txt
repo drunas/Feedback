@@ -1,16 +1,16 @@
 		KM1	KM2	KM3	KM4	KM5
-1	BeketovaYI					
+1	BeketovaYI	22				
 2	BondarevAnA					
-3	YolchevAD					
-4	YemelyanovRS					
+3	YolchevAD	2223				
+4	YemelyanovRS	2233				
 5	KiriushinNI					
-6	KozlovaVV					
-7	LiagusOA					
-8	MartynenkoIA					
-9	PavlovNA					
-10	PotapkinBY					
-11	SidorovIA					
-12	SobolevAnS					
-13	SubbotinDR					
+6	KozlovaVV	332				
+7	LiagusOA	4				
+8	MartynenkoIA	23				
+9	PavlovNA	2				
+10	PotapkinBY	2				
+11	SidorovIA	4				
+12	SobolevAnS	323				
+13	SubbotinDR	43				
 14	UlyanovaYas	2				
 15	YartsevDA					
