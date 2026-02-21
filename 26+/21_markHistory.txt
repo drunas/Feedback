@@ -4,13 +4,13 @@
 3	DedovKS					
 4	YevdokimovOK					
 5	YevsineykinSI					
-6	ZalpovVN					
+6	ZalpovVN	355				
 7	ZolotariovaDV					
 8	LeonovIV					
 9	MiagkovaYN					
 10	PakhninAS					
 11	SemenovAlA					
-12	SenkinAV					
+12	SenkinAV	354				
 13	SivodedMO					
 14	SokolovSA					
-15	FedorenkoNF					
+15	FedorenkoNF	34				
