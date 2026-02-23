@@ -1,19 +1,19 @@
 		KM1	KM2	KM3	KM4	KM5
-1	AndreevNikD					
-2	BambuliaVA	4				
-3	BachurinAK					
+1	AndreevNikD	343				
+2	BambuliaVA	4244				
+3	BachurinAK	43				
 4	GrushinIA					
-5	GusevDO					
+5	GusevDO	43				
 6	DavydovAlexA					
-7	IvzhenkoVS					
+7	IvzhenkoVS	43435				
 8	KeshokovRM	44				
-9	KrivonogovKA	53				
-10	MartirosianMG	2				
+9	KrivonogovKA	534				
+10	MartirosianMG	245				
 11	MedvedskyPV					
-12	PapoyanYS					
+12	PapoyanYS	44				
 13	SokolovAlV					
 14	TaraniovMD					
-15	TomilovVY					
-16	FedosenkoMI					
+15	TomilovVY	2				
+16	FedosenkoMI	2354				
 17	KheysinPV					
-18	ShtrinevaYR					
+18	ShtrinevaYR	4322				
