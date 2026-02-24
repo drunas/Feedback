@@ -1,25 +1,25 @@
 		KM1	KM2	KM3	KM4	KM5
-1	BabinVV					
+1	BabinVV	55				
 2	BabkinIV	55				
-3	BereznikovVlA					
-4	BicharovaPR					
+3	BereznikovVlA	55				
+4	BicharovaPR	23332				
 5	BolonenkovaAA	455				
-6	VasiutinaAR					
+6	VasiutinaAR	254				
 7	VatamaniukV	455				
-8	VytnovSS					
-9	GayevoyDA					
+8	VytnovSS	44				
+9	GayevoyDA	44				
 10	KerimovEV	55				
-11	KucherovYS					
-12	LugovskyaMV					
+11	KucherovYS	3454				
+12	LugovskyaMV	325				
 13	LukaninPV	54				
-14	MetaxaDK					
-15	PavlovDO					
+14	MetaxaDK	2253				
+15	PavlovDO	55				
 16	PershinaDA	54				
-17	SeleznevKK					
-18	SergeevASer					
-19	SmorchkovDS					
-20	StepkinGA					
-21	FokinGA					
-22	ChistovaAI					
+17	SeleznevKK	44				
+18	SergeevASer	54				
+19	SmorchkovDS	2				
+20	StepkinGA	44				
+21	FokinGA	334				
+22	ChistovaAI	2334				
 23	ShvetsYV	55				
-24	YaremchukYA					
+24	YaremchukYA	33				
