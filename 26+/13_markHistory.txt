@@ -2,18 +2,18 @@
 1	AsadchikhAD	33				
 2	BologaVI					
 3	DuganovAA	3				
-4	DudarevaAK					
+4	DudarevaAK	24				
 5	YerkinLK					
-6	KonyginV	33				
+6	KonyginV	333				
 7	NikulinND					
-8	PomogalovNA	2				
+8	PomogalovNA	22342				
 9	PrituzovAD					
 10	PyaninAV					
 11	RozhkovKY					
-12	SargsianTA	4				
+12	SargsianTA	44				
 13	TikhonovAS					
 14	TreskovGA					
-15	TutovDA	234				
+15	TutovDA	2344				
 16	FiliazovaYS					
 17	KhairulinRN					
 18	TsarevDS					
