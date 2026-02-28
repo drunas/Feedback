@@ -4,17 +4,17 @@
 3	DuganovAA	33355				
 4	DudarevaAK	244				
 5	YerkinLK					
-6	KonyginV	3333543				
+6	KonyginV	333354354				
 7	NikulinND					
 8	PomogalovNA	22342344				
 9	PrituzovAD					
 10	PyaninAV					
 11	RozhkovKY					
-12	SargsianTA	444				
+12	SargsianTA	44435				
 13	TikhonovAS					
 14	TreskovGA					
-15	TutovDA	2344				
-16	FiliazovaYS	22				
+15	TutovDA	234444				
+16	FiliazovaYS	22322232				
 17	KhairulinRN	22343				
 18	TsarevDS					
 19	ChuvilinAM					
