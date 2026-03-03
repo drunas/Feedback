@@ -8,14 +8,14 @@
 7	NikulinND					
 8	PomogalovNA	22342344				
 9	PrituzovAD	244				
-10	PyaninAV					
+10	PyaninAV	234				
 11	RozhkovKY					
 12	SargsianTA	444354				
-13	TikhonovAS					
-14	TreskovGA					
+13	TikhonovAS	243				
+14	TreskovGA	34				
 15	TutovDA	234444				
-16	FiliazovaYS	2232223254				
-17	KhairulinRN	22343				
-18	TsarevDS					
-19	ChuvilinAM					
+16	FiliazovaYS	22322232542				
+17	KhairulinRN	2234322243				
+18	TsarevDS	2254				
+19	ChuvilinAM	33				
 20	ShibitovIV					

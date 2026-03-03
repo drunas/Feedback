@@ -5,7 +5,7 @@
 4	BelenkovVI					
 5	DiakinNS					
 6	ZabelinYI					
-7	KirillovAnS					
+7	KirillovAnS	4				
 8	KostyrinAV					
 9	LeonovNikV					
 10	MakarychevID					
