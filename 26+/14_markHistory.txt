@@ -1,11 +1,11 @@
 		KM1	KM2	KM3	KM4	KM5
 1	AnkinMY					
-2	ApresianVL					
+2	ApresianVL	2232				
 3	BalabanovSA					
 4	BelenkovVI					
 5	DiakinNS					
 6	ZabelinYI					
-7	KirillovAnS	43222222				
+7	KirillovAnS	432222222				
 8	KostyrinAV					
 9	LeonovNikV					
 10	MakarychevID					

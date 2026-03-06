@@ -5,8 +5,8 @@
 4	BelikovNY					
 5	BeloglazovKA					
 6	BobrovMI					
-7	BorodinNA					
-8	VetluzhskikhYS					
+7	BorodinNA	234				
+8	VetluzhskikhYS	2				
 9	GuliayevKA					
 10	DyachenkoAM					
 11	MitrokhinaLV					
