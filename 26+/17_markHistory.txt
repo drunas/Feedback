@@ -16,5 +16,5 @@
 15	RusnakDY					
 16	SidanichUS					
 17	SukhoveyAS					
-18	KharlamovMA					
+18	KharlamovMA	3				
 19	KhuanT					
