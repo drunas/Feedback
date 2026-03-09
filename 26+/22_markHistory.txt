@@ -1,6 +1,6 @@
 		KM1	KM2	KM3	KM4	KM5
 1	AverinPB					
-2	AltukhovaGA	4442				
+2	AltukhovaGA	44423				
 3	BabayevYA					
 4	BelikovNY					
 5	BeloglazovKA					
