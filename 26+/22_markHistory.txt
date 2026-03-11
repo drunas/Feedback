@@ -1,19 +1,19 @@
 		KM1	KM2	KM3	KM4	KM5
-1	AverinPB	22				
-2	AltukhovaGA	444233				
+1	AverinPB	2222243				
+2	AltukhovaGA	44423344				
 3	BabayevYA	55				
 4	BelikovNY	44				
-5	BeloglazovKA					
-6	BobrovMI					
+5	BeloglazovKA	433				
+6	BobrovMI	55				
 7	BorodinNA	2344				
-8	VetluzhskikhYS	24442324				
-9	GuliayevKA					
+8	VetluzhskikhYS	244423244				
+9	GuliayevKA	45				
 10	DyachenkoAM					
-11	MitrokhinaLV	2				
-12	PavlovNikV					
-13	PeredinKV	2				
+11	MitrokhinaLV	22234				
+12	PavlovNikV	54				
+13	PeredinKV	245				
 14	PlatitsinMM	254				
-15	RepinNI					
-16	SalnikovaKA					
-17	SvirinIM	2				
-18	KhomichAK					
+15	RepinNI	455				
+16	SalnikovaKA	55				
+17	SvirinIM	245				
+18	KhomichAK	233				
