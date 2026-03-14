@@ -1,6 +1,6 @@
 		KM1	KM2	KM3	KM4	KM5
-1	BorisovMM	-+-				
+1	BorisovMM	+---	++++			
 2	MikhailovAlM	-+-				
 3	SenokosovVA	++-				
 4	SushkovaUA	+-+-				
-5	FedinMatA	---				
+5	FedinMatA	+---	----			
