@@ -1,13 +1,13 @@
 		KM1	KM2	KM3	KM4	KM5
 1	BeketovaYI	---				
-2	BondarevAnA	-++				
+2	BondarevAnA	-++	----			
 3	YolchevAD	----	++++			
 4	YemelyanovRS	+--	++++			
-5	KiriushinNI	-+-				
-6	KozlovaVV	+++	++++			
+5	KiriushinNI	-+-	-+-+			
+6	KozlovaVV	+++	+--+			
 7	LiagusOA	+-+				
 8	MartynenkoIA	++-	++++			
-9	PavlovNA	-+-				
+9	PavlovNA	-+-	-+--			
 10	PotapkinBY	---				
 11	SidorovIA	+--				
 12	SobolevAnS	+-+	++++			

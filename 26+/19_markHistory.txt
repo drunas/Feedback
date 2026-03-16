@@ -1,13 +1,13 @@
 		KM1	KM2	KM3	KM4	KM5
 1	BeketovaYI	22222				
-2	BondarevAnA	23344				
+2	BondarevAnA	23344	2			
 3	YolchevAD	2223432442	55			
 4	YemelyanovRS	2233	2245			
-5	KiriushinNI	3				
-6	KozlovaVV	3323255	5			
+5	KiriushinNI	3	3			
+6	KozlovaVV	3323255	53			
 7	LiagusOA	44				
 8	MartynenkoIA	2334	45			
-9	PavlovNA	2453				
+9	PavlovNA	2453	22			
 10	PotapkinBY	223522				
 11	SidorovIA	43				
 12	SobolevAnS	323354	255			

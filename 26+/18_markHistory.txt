@@ -1,6 +1,6 @@
 		KM1	KM2	KM3	KM4	KM5
-1	BorisovMM	333243432	355			
+1	BorisovMM	3332434322	355			
 2	MikhailovAlM	22233				
 3	SenokosovVA	234				
 4	SushkovaUA	33333				
-5	FedinMatA	2332333232222	342			
+5	FedinMatA	2332333232222	3422			
