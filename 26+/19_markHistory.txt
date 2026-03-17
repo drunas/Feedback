@@ -5,11 +5,11 @@
 4	YemelyanovRS	2233	2245			
 5	KiriushinNI	3	3			
 6	KozlovaVV	3323255	53			
-7	LiagusOA	44				
+7	LiagusOA	44	2			
 8	MartynenkoIA	2334	45			
-9	PavlovNA	2453	22			
+9	PavlovNA	2453	222			
 10	PotapkinBY	223522				
-11	SidorovIA	43				
+11	SidorovIA	43	3			
 12	SobolevAnS	323354	255			
 13	SubbotinDR	43342	55			
 14	UlyanovaYas	222				
