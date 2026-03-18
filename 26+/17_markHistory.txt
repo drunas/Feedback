@@ -11,7 +11,7 @@
 10	MorozovaMVas	55				
 11	NikayevRR	55				
 12	PluzhnikovDM	45				
-13	PyshovaKO	2254424323453455	2			
+13	PyshovaKO	2254424323453455	244			
 14	RomanovaPA	23244455				
 15	RusnakDY					
 16	SidanichUS	55				

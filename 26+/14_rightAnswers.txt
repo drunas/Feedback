@@ -13,6 +13,6 @@
 12	PerelyginAV	++++				
 13	PetrovVVl	-+++				
 14	PushkarevSS	+-++				
-15	TurdibekovIM	----				
+15	TurdibekovIM	+--+				
 16	KhizhinVI	++-+				
 17	TsurkanVA	++-+				

@@ -13,6 +13,6 @@
 12	PerelyginAV	345				
 13	PetrovVVl	22254				
 14	PushkarevSS	244				
-15	TurdibekovIM	2				
+15	TurdibekovIM	233				
 16	KhizhinVI	44				
 17	TsurkanVA	44				
