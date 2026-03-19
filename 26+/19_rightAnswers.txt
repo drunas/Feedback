@@ -8,9 +8,9 @@
 7	LiagusOA	+-+	+---			
 8	MartynenkoIA	++-	++++			
 9	PavlovNA	-+-	----			
-10	PotapkinBY	---				
+10	PotapkinBY	---	----			
 11	SidorovIA	+--	+-+-			
 12	SobolevAnS	+-+	++++			
 13	SubbotinDR	---	++++			
 14	UlyanovaYas	---				
-15	YartsevDA	++-	+---			
+15	YartsevDA	++-	+-+-			

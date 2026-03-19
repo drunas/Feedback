@@ -8,9 +8,9 @@
 7	LiagusOA	44	2222			
 8	MartynenkoIA	2334	45			
 9	PavlovNA	2453	222			
-10	PotapkinBY	223522				
+10	PotapkinBY	223522	2			
 11	SidorovIA	43	33243			
 12	SobolevAnS	323354	255			
 13	SubbotinDR	43342	55			
 14	UlyanovaYas	222				
-15	YartsevDA	2244	52			
+15	YartsevDA	2244	5223243			
