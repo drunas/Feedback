@@ -7,7 +7,7 @@
 6	KonyginV	333354354				
 7	NikulinND					
 8	PomogalovNA	22342344				
-9	PrituzovAD	244				
+9	PrituzovAD	244	2			
 10	PyaninAV	234				
 11	RozhkovKY					
 12	SargsianTA	444354				

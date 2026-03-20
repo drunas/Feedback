@@ -7,7 +7,7 @@
 6	KonyginV	+-++				
 7	NikulinND					
 8	PomogalovNA	+-+				
-9	PrituzovAD	-+++				
+9	PrituzovAD	-+++	----			
 10	PyaninAV	++-+				
 11	RozhkovKY					
 12	SargsianTA	+++-				
