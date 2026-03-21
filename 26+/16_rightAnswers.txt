@@ -2,9 +2,9 @@
 1	BabinVV	+++				
 2	BabkinIV	+++				
 3	BereznikovVlA	+++				
-4	BicharovaPR	+-+				
+4	BicharovaPR	+-+	++-+			
 5	BolonenkovaAA	+++				
-6	VasiutinaAR	-++				
+6	VasiutinaAR	-++	+-+-			
 7	VatamaniukV	+++				
 8	VytnovSS	-++				
 9	GayevoyDA	++-				
@@ -15,7 +15,7 @@
 14	MetaxaDK	---				
 15	PavlovDO	+++				
 16	PershinaDA	+-+				
-17	SeleznevKK	-++				
+17	SeleznevKK	-++	----			
 18	SergeevASer	++-				
 19	SmorchkovDS	-++				
 20	StepkinGA	-++				

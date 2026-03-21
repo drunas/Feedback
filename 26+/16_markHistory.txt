@@ -2,9 +2,9 @@
 1	BabinVV	55				
 2	BabkinIV	55				
 3	BereznikovVlA	55				
-4	BicharovaPR	2333244				
+4	BicharovaPR	2333244	44			
 5	BolonenkovaAA	455				
-6	VasiutinaAR	254				
+6	VasiutinaAR	254	33			
 7	VatamaniukV	455				
 8	VytnovSS	44				
 9	GayevoyDA	44				
@@ -15,7 +15,7 @@
 14	MetaxaDK	225322				
 15	PavlovDO	55				
 16	PershinaDA	54				
-17	SeleznevKK	44				
+17	SeleznevKK	44	32			
 18	SergeevASer	54				
 19	SmorchkovDS	234				
 20	StepkinGA	44				

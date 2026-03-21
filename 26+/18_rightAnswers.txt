@@ -3,4 +3,4 @@
 2	MikhailovAlM	----	--+-			
 3	SenokosovVA	+++-	----			
 4	SushkovaUA	-+++	--+-			
-5	FedinMatA	+--+	+--+			
+5	FedinMatA	++++	+--+			

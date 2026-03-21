@@ -3,10 +3,10 @@
 2	BambuliaVA	++-	--++			
 3	BachurinAK	-+-				
 4	GrushinIA	--+				
-5	GusevDO	+--	-++-			
+5	GusevDO	+--	----			
 6	DavydovAlexA					
 7	IvzhenkoVS	-++	+-+-			
-8	KeshokovRM	-++	-+-+			
+8	KeshokovRM	-++	--++			
 9	KrivonogovKA	+-+	+++-			
 10	MartirosianMG	+++	----			
 11	MedvedskyPV					
@@ -16,4 +16,4 @@
 15	TomilovVY	--+				
 16	FedosenkoMI	++-				
 17	KheysinPV	--+				
-18	ShtrinevaYR	+-+	+++-			
+18	ShtrinevaYR	+-+	+---			
