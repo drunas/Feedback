@@ -1,5 +1,5 @@
 		KM1	KM2	KM3	KM4	KM5
-1	BabinVV	+++	++-+			
+1	BabinVV	+++	--++			
 2	BabkinIV	+++	+-+-			
 3	BereznikovVlA	+++	-+++			
 4	BicharovaPR	+-+	++-+			
@@ -16,7 +16,7 @@
 15	PavlovDO	+++	-++-			
 16	PershinaDA	+-+	++++			
 17	SeleznevKK	-++	+++-			
-18	SergeevASer	++-	+-++			
+18	SergeevASer	++-	-+++			
 19	SmorchkovDS	-++	-+++			
 20	StepkinGA	-++	--++			
 21	FokinGA	++-	-+++			

@@ -1,5 +1,5 @@
 		KM1	KM2	KM3	KM4	KM5
-1	BabinVV	55	4			
+1	BabinVV	55	43			
 2	BabkinIV	55	343			
 3	BereznikovVlA	55	44			
 4	BicharovaPR	2333244	44			
@@ -16,7 +16,7 @@
 15	PavlovDO	55	243			
 16	PershinaDA	54	245			
 17	SeleznevKK	44	3242234			
-18	SergeevASer	54	24			
+18	SergeevASer	54	244			
 19	SmorchkovDS	234	3234			
 20	StepkinGA	44	43			
 21	FokinGA	334	4234			

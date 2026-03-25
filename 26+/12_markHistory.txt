@@ -1,7 +1,7 @@
 		KM1	KM2	KM3	KM4	KM5
 1	AndreevNikD	34342333	23234			
 2	BambuliaVA	4244	333			
-3	BachurinAK	43332323	2222			
+3	BachurinAK	43332323	222233			
 4	GrushinIA	43				
 5	GusevDO	43	3222323234			
 6	DavydovAlexA					
@@ -10,10 +10,11 @@
 9	KrivonogovKA	534	43			
 10	MartirosianMG	245	22233			
 11	MedvedskyPV					
-12	PapoyanYS	44	343			
+12	PapoyanYS	44	3433			
 13	SokolovAlV	3245	33			
 14	TaraniovMD					
 15	TomilovVY	243333	22222			
 16	FedosenkoMI	2354	2244			
 17	KheysinPV	43	233			
 18	ShtrinevaYR	432234353433354	4233			
+19	StepanovMarA					
