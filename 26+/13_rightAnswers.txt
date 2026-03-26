@@ -1,10 +1,10 @@
 		KM1	KM2	KM3	KM4	KM5
 1	AsadchikhAD	-++				
 2	BologaVI					
-3	DuganovAA	+++				
+3	DuganovAA	+++	---+			
 4	DudarevaAK	-++				
 5	YerkinLK					
-6	KonyginV	+-++				
+6	KonyginV	+-++	-+--			
 7	NikulinND					
 8	PomogalovNA	+-+				
 9	PrituzovAD	-+++	----			
@@ -13,7 +13,7 @@
 12	SargsianTA	+++-				
 13	TikhonovAS	++--				
 14	TreskovGA	+++-				
-15	TutovDA	+++-				
+15	TutovDA	+++-	+--+			
 16	FiliazovaYS	----				
 17	KhairulinRN	--++				
 18	TsarevDS	+++-				
