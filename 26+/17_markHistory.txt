@@ -15,6 +15,6 @@
 14	RomanovaPA	23244455				
 15	RusnakDY					
 16	SidanichUS	55				
-17	SukhoveyAS	2344453545442	2			
+17	SukhoveyAS	2344453545442	22			
 18	KharlamovMA	3455				
 19	KhuanT	224343443243				
