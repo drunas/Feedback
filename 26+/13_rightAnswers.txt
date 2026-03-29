@@ -1,6 +1,6 @@
 		KM1	KM2	KM3	KM4	KM5
 1	AsadchikhAD	-++				
-2	BologaVI	-+--	---+			
+2	BologaVI	-+++	---+			
 3	DuganovAA	+++	++--			
 4	DudarevaAK	-++				
 5	YerkinLK					

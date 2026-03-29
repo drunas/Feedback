@@ -1,6 +1,6 @@
 		KM1	KM2	KM3	KM4	KM5
 1	AsadchikhAD	33544				
-2	BologaVI	2	2			
+2	BologaVI	254	2			
 3	DuganovAA	33355	233			
 4	DudarevaAK	244				
 5	YerkinLK					

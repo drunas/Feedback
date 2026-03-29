@@ -7,7 +7,7 @@
 6	ZabelinYI	+++-				
 7	KirillovAnS	+++-				
 8	KostyrinAV	+++-				
-9	LeonovNikV	+++-				
+9	LeonovNikV	+++-	----			
 10	MakarychevID					
 11	MartirosianGA	----				
 12	PerelyginAV	++++				
