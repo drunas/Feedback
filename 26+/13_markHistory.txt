@@ -1,6 +1,6 @@
 		KM1	KM2	KM3	KM4	KM5
 1	AsadchikhAD	33544				
-2	BologaVI	254	2			
+2	BologaVI	254	2322			
 3	DuganovAA	33355	233			
 4	DudarevaAK	244				
 5	YerkinLK					
@@ -8,13 +8,13 @@
 7	NikulinND					
 8	PomogalovNA	22342344	222			
 9	PrituzovAD	244	2234			
-10	PyaninAV	234				
+10	PyaninAV	2342	232			
 11	RozhkovKY					
 12	SargsianTA	444354				
 13	TikhonovAS	243				
 14	TreskovGA	34				
 15	TutovDA	234444	3			
-16	FiliazovaYS	22322232542				
+16	FiliazovaYS	22322232542	423			
 17	KhairulinRN	2234322243				
 18	TsarevDS	2254				
 19	ChuvilinAM	33				
