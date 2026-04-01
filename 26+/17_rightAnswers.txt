@@ -12,7 +12,7 @@
 11	NikayevRR	++++				
 12	PluzhnikovDM	++++				
 13	PyshovaKO	++++	--++			
-14	RomanovaPA	++++				
+14	RomanovaPA	++++	----			
 15	RusnakDY					
 16	SidanichUS	++++				
 17	SukhoveyAS	----	----			
