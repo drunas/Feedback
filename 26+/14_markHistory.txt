@@ -1,15 +1,15 @@
 		KM1	KM2	KM3	KM4	KM5
 1	AnkinMY	244				
-2	ApresianVL	223223244	32232			
+2	ApresianVL	223223244	3223222333233			
 3	BalabanovSA	244				
 4	BelenkovVI	255				
 5	DiakinNS	234333244				
 6	ZabelinYI	223244				
-7	KirillovAnS	43222222222222545424444443224444	3334			
+7	KirillovAnS	43222222222222545424444443224444	3334344			
 8	KostyrinAV	232323354				
 9	LeonovNikV	245344	2			
 10	MakarychevID					
-11	MartirosianGA	45333422	3			
+11	MartirosianGA	45333422	322			
 12	PerelyginAV	345				
 13	PetrovVVl	22254				
 14	PushkarevSS	244				

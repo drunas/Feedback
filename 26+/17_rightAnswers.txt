@@ -5,14 +5,14 @@
 4	ZubarevDD	++-+				
 5	KiriukhinYA	+++-				
 6	KorotayevaVY	++++				
-7	KoshelevaNP	++++				
+7	KoshelevaNP	++++	-+++			
 8	LukinaAnA	++++				
 9	MagomedovaAlM	+-++				
 10	MorozovaMVas	++++				
 11	NikayevRR	++++				
 12	PluzhnikovDM	++++				
-13	PyshovaKO	++++	--++			
-14	RomanovaPA	++++	--++			
+13	PyshovaKO	++++	---+			
+14	RomanovaPA	++++	-+--			
 15	RusnakDY					
 16	SidanichUS	++++				
 17	SukhoveyAS	----	----			

@@ -5,14 +5,14 @@
 4	ZubarevDD	454				
 5	KiriukhinYA	24				
 6	KorotayevaVY	25455				
-7	KoshelevaNP	55				
+7	KoshelevaNP	55	44			
 8	LukinaAnA	4345455				
 9	MagomedovaAlM	244				
 10	MorozovaMVas	55				
 11	NikayevRR	55				
 12	PluzhnikovDM	45				
-13	PyshovaKO	2254424323453455	24423323323			
-14	RomanovaPA	23244455	2233			
+13	PyshovaKO	2254424323453455	244233233232			
+14	RomanovaPA	23244455	22332			
 15	RusnakDY					
 16	SidanichUS	55				
 17	SukhoveyAS	2344453545442	22			
