@@ -4,17 +4,17 @@
 3	ZherlitsynBS	4344455				
 4	ZubarevDD	454				
 5	KiriukhinYA	24				
-6	KorotayevaVY	25455				
+6	KorotayevaVY	25455	23			
 7	KoshelevaNP	55	44			
 8	LukinaAnA	4345455				
 9	MagomedovaAlM	244				
 10	MorozovaMVas	55				
 11	NikayevRR	55				
 12	PluzhnikovDM	45				
-13	PyshovaKO	2254424323453455	244233233232			
+13	PyshovaKO	2254424323453455	24423323323234222			
 14	RomanovaPA	23244455	22332			
 15	RusnakDY					
 16	SidanichUS	55				
 17	SukhoveyAS	2344453545442	22			
 18	KharlamovMA	3455				
-19	KhuanT	224343443243				
+19	KhuanT	224343443243	222			
