@@ -1,20 +1,20 @@
 		KM1	KM2	KM3	KM4	KM5
-1	VanSin	244				
+1	VanSin	244	223			
 2	DemidovaAD	224333				
 3	ZherlitsynBS	4344455				
 4	ZubarevDD	454				
 5	KiriukhinYA	24				
-6	KorotayevaVY	25455	23			
+6	KorotayevaVY	25455	233			
 7	KoshelevaNP	55	44			
-8	LukinaAnA	4345455				
+8	LukinaAnA	4345455	3233			
 9	MagomedovaAlM	244				
-10	MorozovaMVas	55				
+10	MorozovaMVas	55	3222			
 11	NikayevRR	55				
 12	PluzhnikovDM	45				
 13	PyshovaKO	2254424323453455	24423323323234222			
-14	RomanovaPA	23244455	22332			
+14	RomanovaPA	23244455	2233223			
 15	RusnakDY					
 16	SidanichUS	55				
-17	SukhoveyAS	2344453545442	22			
+17	SukhoveyAS	2344453545442	222			
 18	KharlamovMA	3455				
-19	KhuanT	224343443243	222			
+19	KhuanT	224343443243	22242			

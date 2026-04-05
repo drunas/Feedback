@@ -1,5 +1,5 @@
 		KM1	KM2	KM3	KM4	KM5
-1	AnkinMY	++-+				
+1	AnkinMY	++-+	-+-+			
 2	ApresianVL	-+++	--++			
 3	BalabanovSA	-+++				
 4	BelenkovVI	++++				
