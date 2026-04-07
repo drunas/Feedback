@@ -6,14 +6,14 @@
 5	BeloglazovKA	433				
 6	BobrovMI	55				
 7	BorodinNA	2344				
-8	VetluzhskikhYS	244423244	2			
+8	VetluzhskikhYS	244423244	23			
 9	GuliayevKA	45				
 10	DyachenkoAM					
 11	MitrokhinaLV	222343				
 12	PavlovNikV	54				
 13	PeredinKV	245	23			
 14	PlatitsinMM	254				
-15	RepinNI	455	332324			
+15	RepinNI	455	332324333			
 16	SalnikovaKA	55				
 17	SvirinIM	245				
 18	KhomichAK	233				
