@@ -3,18 +3,18 @@
 2	DemidovaAD	224333				
 3	ZherlitsynBS	4344455				
 4	ZubarevDD	454				
-5	KiriukhinYA	24				
+5	KiriukhinYA	24	342			
 6	KorotayevaVY	25455	233			
 7	KoshelevaNP	55	44			
-8	LukinaAnA	4345455	32334			
+8	LukinaAnA	4345455	32334333244			
 9	MagomedovaAlM	244				
-10	MorozovaMVas	55	32223			
+10	MorozovaMVas	55	322234232232			
 11	NikayevRR	55				
-12	PluzhnikovDM	45				
-13	PyshovaKO	2254424323453455	24423323323234222			
+12	PluzhnikovDM	45	234			
+13	PyshovaKO	2254424323453455	24423323323234222255			
 14	RomanovaPA	23244455	22332234			
 15	RusnakDY					
-16	SidanichUS	55				
-17	SukhoveyAS	2344453545442	222			
-18	KharlamovMA	3455				
+16	SidanichUS	55	34			
+17	SukhoveyAS	2344453545442	2224434344			
+18	KharlamovMA	3455	223			
 19	KhuanT	224343443243	2224234			
