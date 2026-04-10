@@ -4,7 +4,7 @@
 3	DedovKS					
 4	YevdokimovOK	54545454545445444445443354	3	55		
 5	YevsineykinSI	354435433454	244	55		
-6	ZalpovVN	355	22323	5445		
+6	ZalpovVN	355	22323	54455		
 7	ZolotariovaDV	43				
 8	LeonovIV	44455	322333	55		
 9	MiagkovaYN	243				

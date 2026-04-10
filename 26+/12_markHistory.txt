@@ -6,15 +6,15 @@
 5	GusevDO	43	3222323234	5		
 6	DavydovAlexA					
 7	IvzhenkoVS	434354	33	55		
-8	KeshokovRM	44	334	253		
+8	KeshokovRM	44	334	25355		
 9	KrivonogovKA	534	43			
 10	MartirosianMG	245	22233	54		
 11	MedvedskyPV					
-12	PapoyanYS	44	3433	35		
+12	PapoyanYS	44	3433	355		
 13	SokolovAlV	3245	33			
 14	TaraniovMD					
 15	TomilovVY	243333	22222	3		
-16	FedosenkoMI	2354	2244			
+16	FedosenkoMI	2354	2244	2		
 17	KheysinPV	43	233			
 18	ShtrinevaYR	432234353433354	4233	455		
 19	StepanovMarA					

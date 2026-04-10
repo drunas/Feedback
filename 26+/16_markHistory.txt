@@ -8,7 +8,7 @@
 7	VatamaniukV	455	54			
 8	VytnovSS	44				
 9	GayevoyDA	44				
-10	KerimovEV	55	33			
+10	KerimovEV	55	33	55		
 11	KucherovYS	3454	243			
 12	LugovskyaMV	3253	33			
 13	LukaninPV	54	344			
