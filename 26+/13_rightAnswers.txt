@@ -18,4 +18,4 @@
 17	KhairulinRN	--++	++--			
 18	TsarevDS	+++-	-+-+			
 19	ChuvilinAM	++--	-+++			
-20	ShibitovIV	--++	--+-			
+20	ShibitovIV	--++	+--+			

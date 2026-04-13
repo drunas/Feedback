@@ -8,7 +8,7 @@
 7	VatamaniukV	+++	+-++			
 8	VytnovSS	-++				
 9	GayevoyDA	++-				
-10	KerimovEV	+++	++--			
+10	KerimovEV	+++	++--	++++xx		
 11	KucherovYS	-++	++--			
 12	LugovskyaMV	--+	--++			
 13	LukaninPV	++-	+++-			
@@ -22,4 +22,4 @@
 21	FokinGA	++-	-+++			
 22	ChistovaAI	++-	-++-			
 23	ShvetsYV	+++	-++-			
-24	YaremchukYA	--+	++-+			
+24	YaremchukYA	--+	++-+	-+++xx		

@@ -1,20 +1,20 @@
 		KM1	KM2	KM3	KM4	KM5
-1	VanSin	-+++	++--			
-2	DemidovaAD	++--				
-3	ZherlitsynBS	++++				
-4	ZubarevDD	++-+				
-5	KiriukhinYA	+++-				
-6	KorotayevaVY	++++	+--+			
-7	KoshelevaNP	++++	-+++			
-8	LukinaAnA	++++	+++-			
-9	MagomedovaAlM	+-++				
-10	MorozovaMVas	++++	++--			
-11	NikayevRR	++++				
-12	PluzhnikovDM	++++				
-13	PyshovaKO	++++	----			
-14	RomanovaPA	++++	++-+			
-15	RusnakDY					
-16	SidanichUS	++++				
-17	SukhoveyAS	----	-+--			
-18	KharlamovMA	++++				
-19	KhuanT	-+-+	-+++			
+1	VanSin	-+++	++--	++++xx		
+2	DemidovaAD	++--	++++			
+3	ZherlitsynBS	++++	++++			
+4	ZubarevDD	++-+	----			
+5	KiriukhinYA	+++-	-++-			
+6	KorotayevaVY	++++	+--+	-+++xx		
+7	KoshelevaNP	++++	-+++	++++xx		
+8	LukinaAnA	++++	++-+	++++xx		
+9	MagomedovaAlM	+-++	+--+	++++xx		
+10	MorozovaMVas	++++	+--+	++++xx		
+11	NikayevRR	++++	--+-			
+12	PluzhnikovDM	++++	+++-			
+13	PyshovaKO	++++	++++	++++xx		
+14	RomanovaPA	++++	++-+	++++xx		
+15	RusnakDY		---+			
+16	SidanichUS	++++	-+++			
+17	SukhoveyAS	+-++	-+++	++++xx		
+18	KharlamovMA	++++	+--+	++++xx		
+19	KhuanT	++++	++--			

@@ -1,16 +1,16 @@
 		KM1	KM2	KM3	KM4	KM5
-1	AlexeevAA	+-+	--+-			
+1	AlexeevAA	+-+	--+-	++++xx		
 2	VasilyevLA	+-+	-+++			
 3	DedovKS					
-4	YevdokimovOK	+-+	-+-+			
-5	YevsineykinSI	+-+	++-+			
-6	ZalpovVN	+++	-++-			
+4	YevdokimovOK	+-+	-+-+	++++xx		
+5	YevsineykinSI	+-+	++-+	++++xx		
+6	ZalpovVN	+++	-++-	++++xx		
 7	ZolotariovaDV	-+-				
-8	LeonovIV	+++	++--			
+8	LeonovIV	+++	++--	++++xx		
 9	MiagkovaYN	--+				
 10	PakhninAS	-++				
 11	SemenovAlA	-++	+---			
-12	SenkinAV	+-+	--++			
+12	SenkinAV	+-+	--++	++++xx		
 13	SivodedMO	--+	---+			
 14	SokolovSA	+--	-+--			
-15	FedorenkoNF	+++	++++			
+15	FedorenkoNF	+++	++++	++++xx		
