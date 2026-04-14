@@ -1,9 +1,9 @@
 		KM1	KM2	KM3	KM4	KM5
 1	BabinVV	55	43			
-2	BabkinIV	55	343			
+2	BabkinIV	55	343	455		
 3	BereznikovVlA	55	44			
 4	BicharovaPR	2333244	44			
-5	BolonenkovaAA	455	34			
+5	BolonenkovaAA	455	34	5		
 6	VasiutinaAR	254	333			
 7	VatamaniukV	455	54			
 8	VytnovSS	44				

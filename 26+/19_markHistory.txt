@@ -3,14 +3,14 @@
 2	BondarevAnA	23344	2244	55		
 3	YolchevAD	22234324422	55	55		
 4	YemelyanovRS	2233	2245	55		
-5	KiriushinNI	3	3	5		
-6	KozlovaVV	3323255	53434	55		
-7	LiagusOA	44	2222	455		
+5	KiriushinNI	3	3455	55		
+6	KozlovaVV	3323255	5343432424	55		
+7	LiagusOA	44	222255	455		
 8	MartynenkoIA	2334	45	55		
-9	PavlovNA	2453	222	4		
-10	PotapkinBY	223522	2			
+9	PavlovNA	2453	22255	4355		
+10	PotapkinBY	223522	2	55		
 11	SidorovIA	43	332432	355		
 12	SobolevAnS	323354	255	55		
 13	SubbotinDR	43342	55	55		
-14	UlyanovaYas	222				
-15	YartsevDA	2244	5223243	5		
+14	UlyanovaYas	222	455	55		
+15	YartsevDA	2244	5223243	5455		

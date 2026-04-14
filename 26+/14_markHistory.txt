@@ -10,9 +10,9 @@
 9	LeonovNikV	245344	254	52		
 10	MakarychevID					
 11	MartirosianGA	45333422	322222423222453	4545555		
-12	PerelyginAV	345	32233			
+12	PerelyginAV	345	32233	55		
 13	PetrovVVl	22254	42322			
 14	PushkarevSS	244	2342422234			
 15	TurdibekovIM	233	253			
 16	KhizhinVI	44	43354	54		
-17	TsurkanVA	44	3222322			
+17	TsurkanVA	44	3222322	425		

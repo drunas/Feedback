@@ -1,5 +1,5 @@
 		KM1	KM2	KM3	KM4	KM5
-1	AndreevNikD	+--	+++-			
+1	AndreevNikD	+--	+++-	-+++xx		
 2	BambuliaVA	++-	+-+-	++++xx		
 3	BachurinAK	-+-	+--+			
 4	GrushinIA	--+				

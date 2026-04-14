@@ -1,9 +1,9 @@
 		KM1	KM2	KM3	KM4	KM5
 1	BabinVV	+++	--++			
-2	BabkinIV	+++	+-+-			
+2	BabkinIV	+++	+-+-	++++		
 3	BereznikovVlA	+++	-+++			
 4	BicharovaPR	+-+	++-+			
-5	BolonenkovaAA	+++	-+++			
+5	BolonenkovaAA	+++	-+++	++++xx		
 6	VasiutinaAR	-++	+-+-			
 7	VatamaniukV	+++	+-++			
 8	VytnovSS	-++				

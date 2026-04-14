@@ -1,9 +1,9 @@
 		KM1	KM2	KM3	KM4	KM5
-1	AndreevNikD	34342333	23234			
+1	AndreevNikD	34342333	23234	4		
 2	BambuliaVA	4244	333	55		
 3	BachurinAK	43332323	222233			
 4	GrushinIA	43				
-5	GusevDO	43	3222323234	5		
+5	GusevDO	43	3222323234	55		
 6	DavydovAlexA					
 7	IvzhenkoVS	434354	33	55		
 8	KeshokovRM	44	334	25355		

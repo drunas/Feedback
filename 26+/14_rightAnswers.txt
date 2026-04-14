@@ -10,9 +10,9 @@
 9	LeonovNikV	+++-	+++-	------		
 10	MakarychevID					
 11	MartirosianGA	----	++--	++++xx		
-12	PerelyginAV	++++	+--+			
+12	PerelyginAV	++++	+--+	++++xx		
 13	PetrovVVl	-+++	---+			
 14	PushkarevSS	+-++	-+++			
 15	TurdibekovIM	+--+	++--			
 16	KhizhinVI	++-+	++-+	-+++xx		
-17	TsurkanVA	++-+	--+-			
+17	TsurkanVA	++-+	--+-	++++		
