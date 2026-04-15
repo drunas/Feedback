@@ -4,12 +4,12 @@
 3	YolchevAD	----	++++	++++xx		
 4	YemelyanovRS	+--	++++	++++xx		
 5	KiriushinNI	-+-	++++	++++xx		
-6	KozlovaVV	+++	-+++	++++xx		
+6	KozlovaVV	+++	++++	++++xx		
 7	LiagusOA	+-+	++++	++++xx		
 8	MartynenkoIA	++-	++++	++++xx		
 9	PavlovNA	-+-	++++	++++xx		
 10	PotapkinBY	---	----	++++xx		
-11	SidorovIA	+--	----	++++xx		
+11	SidorovIA	+--	++++	++++xx		
 12	SobolevAnS	+-+	++++	++++xx		
 13	SubbotinDR	---	++++	++++xx		
 14	UlyanovaYas	---	++++	++++xx		

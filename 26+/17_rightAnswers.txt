@@ -3,13 +3,13 @@
 2	DemidovaAD	++--	++++			
 3	ZherlitsynBS	++++	++++			
 4	ZubarevDD	++-+	----			
-5	KiriukhinYA	+++-	-++-			
+5	KiriukhinYA	+++-	-++-	++++		
 6	KorotayevaVY	++++	+--+	-+++xx		
 7	KoshelevaNP	++++	-+++	++++xx		
 8	LukinaAnA	++++	++-+	++++xx		
 9	MagomedovaAlM	+-++	+--+	++++xx		
 10	MorozovaMVas	++++	+--+	++++xx		
-11	NikayevRR	++++	--+-	++++		
+11	NikayevRR	++++	----	++++		
 12	PluzhnikovDM	++++	+++-	++-+xx		
 13	PyshovaKO	++++	++++	++++xx		
 14	RomanovaPA	++++	++-+	++++xx		

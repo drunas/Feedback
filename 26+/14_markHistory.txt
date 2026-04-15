@@ -15,4 +15,4 @@
 14	PushkarevSS	244	2342422234			
 15	TurdibekovIM	233	253			
 16	KhizhinVI	44	43354	54		
-17	TsurkanVA	44	3222322	425		
+17	TsurkanVA	44	3222322	4254		

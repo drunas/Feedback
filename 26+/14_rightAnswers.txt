@@ -15,4 +15,4 @@
 14	PushkarevSS	+-++	-+++			
 15	TurdibekovIM	+--+	++--			
 16	KhizhinVI	++-+	++-+	-+++xx		
-17	TsurkanVA	++-+	--+-	++++		
+17	TsurkanVA	++-+	--+-	+-++		
