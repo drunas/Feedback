@@ -13,8 +13,8 @@
 12	PapoyanYS	44	3433	355		
 13	SokolovAlV	3245	33			
 14	TaraniovMD					
-15	TomilovVY	243333	22222	33		
-16	FedosenkoMI	2354	2244	2		
+15	TomilovVY	243333	22222	3355		
+16	FedosenkoMI	2354	2244	255		
 17	KheysinPV	43	233			
 18	ShtrinevaYR	432234353433354	4233	455		
 19	StepanovMarA					

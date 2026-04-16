@@ -1,6 +1,6 @@
 		KM1	KM2	KM3	KM4	KM5
 1	VanSin	-+++	++--	++++xx		
-2	DemidovaAD	++--	++++			
+2	DemidovaAD	++--	----	++++		
 3	ZherlitsynBS	++++	++++			
 4	ZubarevDD	++-+	----			
 5	KiriukhinYA	+++-	-++-	++++		
@@ -10,7 +10,7 @@
 9	MagomedovaAlM	+-++	+--+	++++xx		
 10	MorozovaMVas	++++	+--+	++++xx		
 11	NikayevRR	++++	----	++++		
-12	PluzhnikovDM	++++	+++-	++-+xx		
+12	PluzhnikovDM	++++	+++-	++++		
 13	PyshovaKO	++++	++++	++++xx		
 14	RomanovaPA	++++	++-+	++++xx		
 15	RusnakDY		---+			

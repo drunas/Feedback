@@ -6,7 +6,7 @@
 5	BeloglazovKA	-++-	-++-	+-++		
 6	BobrovMI	++++	+-+-	----		
 7	BorodinNA	+++-	-+-+			
-8	VetluzhskikhYS	-+++	-++-	++++xx		
+8	VetluzhskikhYS	-+++	-+++	++++xx		
 9	GuliayevKA	++++	+-++	++-+xx		
 10	DyachenkoAM					
 11	MitrokhinaLV	+-+-	--++			

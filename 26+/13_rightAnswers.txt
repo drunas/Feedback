@@ -6,11 +6,11 @@
 5	YerkinLK	+--+	++++			
 6	KonyginV	+-++	++--	++++xx		
 7	NikulinND					
-8	PomogalovNA	+-+	-+++			
+8	PomogalovNA	+-+	-+++	++++		
 9	PrituzovAD	-+++	+++-	+++-		
 10	PyaninAV	+---	+--+			
 11	RozhkovKY	----				
-12	SargsianTA	+++-	++--	++-+		
+12	SargsianTA	+++-	++--	++++		
 13	TikhonovAS	++--	-+-+			
 14	TreskovGA	+++-	+--+			
 15	TutovDA	+++-	+-+-	++++xx		

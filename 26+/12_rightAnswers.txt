@@ -13,8 +13,8 @@
 12	PapoyanYS	-++	-+-+	++++xx		
 13	SokolovAlV	+++	+--+			
 14	TaraniovMD					
-15	TomilovVY	--+	----	--++		
-16	FedosenkoMI	++-	++-+	---+xx		
+15	TomilovVY	--+	----	++++		
+16	FedosenkoMI	++-	++-+	++++		
 17	KheysinPV	--+	-++-			
 18	ShtrinevaYR	+-+	+-+-	++++xx		
 19	StepanovMarA					
