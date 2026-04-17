@@ -3,7 +3,7 @@
 2	BabkinIV	55	343	455		
 3	BereznikovVlA	55	44			
 4	BicharovaPR	2333244	44	45255		
-5	BolonenkovaAA	455	34	545		
+5	BolonenkovaAA	455	34	5455		
 6	VasiutinaAR	254	3333	5455		
 7	VatamaniukV	455	54	54		
 8	VytnovSS	44				
@@ -11,15 +11,15 @@
 10	KerimovEV	55	33	55		
 11	KucherovYS	3454	243	55		
 12	LugovskyaMV	3253	33			
-13	LukaninPV	54	344	4		
+13	LukaninPV	54	344	455		
 14	MetaxaDK	225322	2233	5		
 15	PavlovDO	55	243			
-16	PershinaDA	54	245	5		
+16	PershinaDA	54	245	55		
 17	SeleznevKK	44	3242234			
 18	SergeevASer	54	244			
 19	SmorchkovDS	234	3234			
 20	StepkinGA	44	43	55		
 21	FokinGA	334	4234			
-22	ChistovaAI	2334	332243	543		
+22	ChistovaAI	2334	332243	54355		
 23	ShvetsYV	55	33	55		
 24	YaremchukYA	33	22223234	4		

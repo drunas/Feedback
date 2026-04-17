@@ -7,7 +7,7 @@
 6	DavydovAlexA					
 7	IvzhenkoVS	-++	--++	++++xx		
 8	KeshokovRM	-++	+-++	++++xx		
-9	KrivonogovKA	+-+	--++			
+9	KrivonogovKA	+-+	--++	++++		
 10	MartirosianMG	+++	-++-	+++-xx		
 11	MedvedskyPV					
 12	PapoyanYS	-++	-+-+	++++xx		

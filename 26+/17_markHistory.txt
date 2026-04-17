@@ -1,7 +1,7 @@
 		KM1	KM2	KM3	KM4	KM5
 1	VanSin	244	2233	55		
 2	DemidovaAD	224333	2225522	5		
-3	ZherlitsynBS	4344455	55			
+3	ZherlitsynBS	4344455	55	45		
 4	ZubarevDD	454	222			
 5	KiriukhinYA	24	34233	55		
 6	KorotayevaVY	25455	233	544		

@@ -7,7 +7,7 @@
 6	KonyginV	333354354	22233	55		
 7	NikulinND					
 8	PomogalovNA	22342344	22234	55		
-9	PrituzovAD	244	2234	444		
+9	PrituzovAD	244	2234	4444		
 10	PyaninAV	2342	23243			
 11	RozhkovKY	2222				
 12	SargsianTA	444354	233	455		

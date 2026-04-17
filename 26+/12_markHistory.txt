@@ -7,7 +7,7 @@
 6	DavydovAlexA					
 7	IvzhenkoVS	434354	33	55		
 8	KeshokovRM	44	334	25355		
-9	KrivonogovKA	534	43			
+9	KrivonogovKA	534	43	55		
 10	MartirosianMG	245	22233	54		
 11	MedvedskyPV					
 12	PapoyanYS	44	3433	355		
