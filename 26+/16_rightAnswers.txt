@@ -10,14 +10,14 @@
 9	GayevoyDA	++-				
 10	KerimovEV	+++	++--	++++xx		
 11	KucherovYS	-++	++--	++++		
-12	LugovskyaMV	--+	--++			
+12	LugovskyaMV	--+	--++	++++		
 13	LukaninPV	++-	+++-	++++		
 14	MetaxaDK	---	-+-+	++++		
 15	PavlovDO	+++	-++-			
 16	PershinaDA	+-+	++++	++++		
 17	SeleznevKK	-++	+++-			
 18	SergeevASer	++-	-+++			
-19	SmorchkovDS	-++	-+++			
+19	SmorchkovDS	-++	-+++	+++-		
 20	StepkinGA	-++	--++	++++		
 21	FokinGA	++-	-+++			
 22	ChistovaAI	++-	-++-	++++		

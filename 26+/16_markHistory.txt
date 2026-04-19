@@ -10,14 +10,14 @@
 9	GayevoyDA	44				
 10	KerimovEV	55	33	55		
 11	KucherovYS	3454	243	55		
-12	LugovskyaMV	3253	33			
+12	LugovskyaMV	3253	33	45		
 13	LukaninPV	54	344	455		
 14	MetaxaDK	225322	2233	5		
 15	PavlovDO	55	243			
 16	PershinaDA	54	245	55		
 17	SeleznevKK	44	3242234			
 18	SergeevASer	54	244			
-19	SmorchkovDS	234	3234			
+19	SmorchkovDS	234	3234	54		
 20	StepkinGA	44	43	55		
 21	FokinGA	334	4234			
 22	ChistovaAI	2334	332243	54355		

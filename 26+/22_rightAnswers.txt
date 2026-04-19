@@ -12,7 +12,7 @@
 11	MitrokhinaLV	+-+-	--++			
 12	PavlovNikV	+++-	+-+-			
 13	PeredinKV	++++	--++	+++-xx		
-14	PlatitsinMM	-+++	+--+	++++		
+14	PlatitsinMM	-+++	-++-	++++		
 15	RepinNI	++++	-+++	++++xx		
 16	SalnikovaKA	++++	+-+-			
 17	SvirinIM	++++	+---	------		
