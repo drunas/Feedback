@@ -2,11 +2,11 @@
 1	AlexeevAA	+-+	--+-	++++xx		
 2	VasilyevLA	+-+	-+++			
 3	DedovKS					
-4	YevdokimovOK	+-+	-+-+	++++xx		
+4	YevdokimovOK	+-+	+-++	++++xx		
 5	YevsineykinSI	+-+	++-+	++++xx		
-6	ZalpovVN	+++	-++-	++++xx		
+6	ZalpovVN	+++	+-++	++++xx		
 7	ZolotariovaDV	-+-				
-8	LeonovIV	+++	++--	++++xx		
+8	LeonovIV	+++	-+--	++++xx		
 9	MiagkovaYN	--+				
 10	PakhninAS	-++				
 11	SemenovAlA	-++	+---			

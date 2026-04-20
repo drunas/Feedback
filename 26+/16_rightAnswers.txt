@@ -13,7 +13,7 @@
 12	LugovskyaMV	--+	--++	++++		
 13	LukaninPV	++-	+++-	++++		
 14	MetaxaDK	---	-+-+	++++		
-15	PavlovDO	+++	-++-			
+15	PavlovDO	+++	-++-	+-++		
 16	PershinaDA	+-+	++++	++++		
 17	SeleznevKK	-++	+++-			
 18	SergeevASer	++-	-+++			
