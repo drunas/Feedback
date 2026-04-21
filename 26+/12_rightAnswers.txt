@@ -1,7 +1,7 @@
 		KM1	KM2	KM3	KM4	KM5
 1	AndreevNikD	+--	+++-	++++		
 2	BambuliaVA	++-	+-+-	++++xx		
-3	BachurinAK	-+-	+--+	+-++		
+3	BachurinAK	-+-	+--+	+--+		
 4	GrushinIA	--+		--++		
 5	GusevDO	+--	-+++	++++xx		
 6	DavydovAlexA					
@@ -10,11 +10,11 @@
 9	KrivonogovKA	+-+	--++	++++		
 10	MartirosianMG	+++	-++-	+++-xx		
 11	MedvedskyPV					
-12	PapoyanYS	-++	-+-+	++++xx		
+12	PapoyanYS	-++	++++	++++xx		
 13	SokolovAlV	+++	+--+	++++		
 14	TaraniovMD					
 15	TomilovVY	--+	----	++++		
 16	FedosenkoMI	++-	++-+	++++		
-17	KheysinPV	--+	-++-	----		
+17	KheysinPV	--+	-++-	++++		
 18	ShtrinevaYR	+-+	+-+-	++++xx		
-19	StepanovMarA			-+++		
+19	StepanovMarA			+++-		

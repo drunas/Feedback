@@ -15,11 +15,11 @@
 14	MetaxaDK	225322	2233	5		
 15	PavlovDO	55	243	4		
 16	PershinaDA	54	245	55		
-17	SeleznevKK	44	3242234			
+17	SeleznevKK	44	3242234	55		
 18	SergeevASer	54	244			
 19	SmorchkovDS	234	3234	54		
 20	StepkinGA	44	43	55		
-21	FokinGA	334	4234			
+21	FokinGA	334	4234	55		
 22	ChistovaAI	2334	332243	54355		
 23	ShvetsYV	55	33	55		
-24	YaremchukYA	33	22223234	4		
+24	YaremchukYA	33	22223234	45		

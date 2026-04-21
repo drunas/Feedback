@@ -15,11 +15,11 @@
 14	MetaxaDK	---	-+-+	++++		
 15	PavlovDO	+++	-++-	+-++		
 16	PershinaDA	+-+	++++	++++		
-17	SeleznevKK	-++	+++-			
+17	SeleznevKK	-++	+++-	++++		
 18	SergeevASer	++-	-+++			
 19	SmorchkovDS	-++	-+++	+++-		
 20	StepkinGA	-++	--++	++++		
-21	FokinGA	++-	-+++			
+21	FokinGA	++-	-+++	++++		
 22	ChistovaAI	++-	-++-	++++		
 23	ShvetsYV	+++	-++-	++++		
-24	YaremchukYA	--+	++-+	-+++xx		
+24	YaremchukYA	--+	++-+	++++		
