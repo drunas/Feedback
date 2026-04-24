@@ -2,7 +2,7 @@
 1	AsadchikhAD	33544	24223225	45		
 2	BologaVI	254	232233			
 3	DuganovAA	33355	233	55		
-4	DudarevaAK	244	223244			
+4	DudarevaAK	244	223244	3		
 5	YerkinLK	3	2225			
 6	KonyginV	333354354	22233	55		
 7	NikulinND					
