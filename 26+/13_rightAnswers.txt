@@ -9,13 +9,13 @@
 8	PomogalovNA	+-+	++++	++++		
 9	PrituzovAD	-+++	+++-	+++-		
 10	PyaninAV	+---	+--+			
-11	RozhkovKY	----	+--+			
+11	RozhkovKY	----	+--+	----		
 12	SargsianTA	+++-	++--	++++		
 13	TikhonovAS	++--	-+-+			
-14	TreskovGA	+++-	+--+			
+14	TreskovGA	+++-	+--+	+-++		
 15	TutovDA	+++-	+-+-	++++xx		
 16	FiliazovaYS	----	+--+	-+++		
 17	KhairulinRN	--++	++--	++++		
 18	TsarevDS	+++-	-+-+			
-19	ChuvilinAM	++--	-+++			
+19	ChuvilinAM	++--	-+++	++++		
 20	ShibitovIV	--++	+--+			
