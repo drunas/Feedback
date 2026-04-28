@@ -2,20 +2,20 @@
 1	AsadchikhAD	-++	-+++	++++		
 2	BologaVI	-+++	-+-+			
 3	DuganovAA	+++	++--	++++xx		
-4	DudarevaAK	-++	+-++	-++-		
-5	YerkinLK	+--+	++++			
+4	DudarevaAK	-++	+-++	++++		
+5	YerkinLK	++--	++-+	-+-+		
 6	KonyginV	+-++	++--	++++xx		
 7	NikulinND					
 8	PomogalovNA	+-+	++++	++++		
 9	PrituzovAD	-+++	+++-	+++-		
 10	PyaninAV	+---	+--+			
-11	RozhkovKY	----	+--+	----		
+11	RozhkovKY	+++-	++--	+-++		
 12	SargsianTA	+++-	++--	++++		
 13	TikhonovAS	++--	-+-+			
 14	TreskovGA	+++-	+--+	+-++		
 15	TutovDA	+++-	+-+-	++++xx		
 16	FiliazovaYS	----	+--+	-+++		
 17	KhairulinRN	--++	++--	++++		
-18	TsarevDS	+++-	-+-+			
+18	TsarevDS	+++-	-+-+	+-+-		
 19	ChuvilinAM	++--	-+++	++++		
-20	ShibitovIV	--++	+--+			
+20	ShibitovIV	--++	+--+	++--		
