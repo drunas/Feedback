@@ -11,7 +11,7 @@
 10	MakarychevID					
 11	MartirosianGA	----	++--	++++xx		
 12	PerelyginAV	++++	+--+	++++xx		
-13	PetrovVVl	-+++	---+			
+13	PetrovVVl	-+++	++++			
 14	PushkarevSS	+-++	-+++			
 15	TurdibekovIM	+--+	++--			
 16	KhizhinVI	++-+	++-+	-+++xx		

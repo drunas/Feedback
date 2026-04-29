@@ -11,7 +11,7 @@
 10	MakarychevID					
 11	MartirosianGA	45333422	322222423222453	4545555		
 12	PerelyginAV	345	32233	55		
-13	PetrovVVl	22254	42322			
+13	PetrovVVl	22254	4232225			
 14	PushkarevSS	244	2342422234			
 15	TurdibekovIM	233	253			
 16	KhizhinVI	44	43354	54		
