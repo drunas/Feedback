@@ -1,6 +1,6 @@
 		KM1	KM2	KM3	KM4	KM5
 1	VanSin	-+++	++--	++++xx		
-2	DemidovaAD	++--	----	+-++		
+2	DemidovaAD	++--	----	++++		
 3	ZherlitsynBS	++++	++++	++++		
 4	ZubarevDD	++-+	----			
 5	KiriukhinYA	+++-	-++-	++++		
@@ -17,4 +17,4 @@
 16	SidanichUS	++++	-+++			
 17	SukhoveyAS	++-+	-+++	++++xx		
 18	KharlamovMA	++++	+--+	++++xx		
-19	KhuanT	++++	++++	----		
+19	KhuanT	++++	++++	++++		
