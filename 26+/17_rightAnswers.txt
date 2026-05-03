@@ -9,7 +9,7 @@
 8	LukinaAnA	++++	++-+	++++xx		
 9	MagomedovaAlM	+-++	+--+	++++xx		
 10	MorozovaMVas	++++	+--+	++++xx		
-11	NikayevRR	++++	----	++++		
+11	NikayevRR	++++	--+-	++++		
 12	PluzhnikovDM	++++	+++-	++++		
 13	PyshovaKO	++++	++++	++++xx		
 14	RomanovaPA	++++	++++	++++xx		
