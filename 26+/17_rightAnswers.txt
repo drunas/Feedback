@@ -13,7 +13,7 @@
 12	PluzhnikovDM	++++	+++-	++++		
 13	PyshovaKO	++++	++++	++++xx		
 14	RomanovaPA	++++	++++	++++xx		
-15	RusnakDY	+---	---+	++++		
+15	RusnakDY	+---	++++	++++		
 16	SidanichUS	++++	-+++	++++		
 17	SukhoveyAS	++-+	-+++	++++xx		
 18	KharlamovMA	++++	+--+	++++xx		
