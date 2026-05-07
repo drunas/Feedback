@@ -4,7 +4,7 @@
 3	DedovKS					
 4	YevdokimovOK	+-+	+-++	++++xx		
 5	YevsineykinSI	+-+	++-+	++++xx		
-6	ZalpovVN	+++	-++-	++++xx		
+6	ZalpovVN	+++	+-++	++++xx		
 7	ZolotariovaDV	-+-				
 8	LeonovIV	+++	+--+	++++xx		
 9	MiagkovaYN	--+				
