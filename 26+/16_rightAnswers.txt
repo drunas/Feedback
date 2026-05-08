@@ -22,4 +22,4 @@
 21	FokinGA	++-	-+++	++++		
 22	ChistovaAI	++-	-++-	++++		
 23	ShvetsYV	+++	-++-	++++		
-24	YaremchukYA	--+	++-+	++++		
+24	YaremchukYA	--+	--+-	++++		
