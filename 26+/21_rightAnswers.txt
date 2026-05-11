@@ -11,6 +11,6 @@
 10	PakhninAS	-++		++++		
 11	SemenovAlA	-++	+---			
 12	SenkinAV	+-+	--++	++++xx		
-13	SivodedMO	--+	---+	++++		
+13	SivodedMO	--+	---+	----		
 14	SokolovSA	+--	-+--			
 15	FedorenkoNF	+++	+-+-	++++xx		

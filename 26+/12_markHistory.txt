@@ -17,4 +17,4 @@
 16	FedosenkoMI	2354	2244	255		
 17	KheysinPV	43	233	255		
 18	ShtrinevaYR	432234353433354	4233	455		
-19	StepanovMarA			444		
+19	StepanovMarA	2		444		
