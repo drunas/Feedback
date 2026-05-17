@@ -1,7 +1,7 @@
 		KM1	KM2	KM3	KM4	KM5
 1	AndreevNikD	34342333	23234	45		
 2	BambuliaVA	4244	333	55		
-3	BachurinAK	43332323	222233	43		
+3	BachurinAK	4333232333	222233	43		
 4	GrushinIA	43		53		
 5	GusevDO	43	3222323234	55		
 6	DavydovAlexA					
