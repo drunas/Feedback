@@ -7,7 +7,7 @@
 6	VasiutinaAR	-++	++++	++++		
 7	VatamaniukV	+++	+-++	++++		
 8	VytnovSS	-++				
-9	GayevoyDA	++-	----	----		
+9	GayevoyDA	++-	----	+-++		
 10	KerimovEV	+++	++--	++++xx		
 11	KucherovYS	-++	++++	++++		
 12	LugovskyaMV	--+	++++	++++		
