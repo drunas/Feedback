@@ -2,12 +2,12 @@
 1	AndreevNikD	34342333	23234	45		
 2	BambuliaVA	4244	333	55		
 3	BachurinAK	4333232333	222233	43		
-4	GrushinIA	43		53		
+4	GrushinIA	43	423222	53		
 5	GusevDO	43	3222323234	55		
 6	DavydovAlexA					
 7	IvzhenkoVS	434354	33	55		
 8	KeshokovRM	44	334	25355		
-9	KrivonogovKA	534	43	55		
+9	KrivonogovKA	5342	432	55		
 10	MartirosianMG	245	22233	54		
 11	MedvedskyPV					
 12	PapoyanYS	44	343355	355		
