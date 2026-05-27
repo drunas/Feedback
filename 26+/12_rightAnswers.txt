@@ -2,7 +2,7 @@
 1	AndreevNikD	+--	+++-	++++		
 2	BambuliaVA	++-	+-+-	++++xx		
 3	BachurinAK	+-+-	+--+	+--+		
-4	GrushinIA	--+	----	--++		
+4	GrushinIA	--+	-+++	--++		
 5	GusevDO	+--	-+++	++++xx		
 6	DavydovAlexA					
 7	IvzhenkoVS	-++	--++	++++xx		
