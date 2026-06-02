@@ -11,7 +11,7 @@
 10	DyachenkoAM			++++		
 11	MitrokhinaLV	+-+-	+---	+-++		
 12	PavlovNikV	+++-	+-+-	+++-		
-13	PeredinKV	++++	++++	++-+		
+13	PeredinKV	++++	++++	++++		
 14	PlatitsinMM	-+++	++++	++++		
 15	RepinNI	++++	-+++	++++xx		
 16	SalnikovaKA	++++	+-+-	++++		
