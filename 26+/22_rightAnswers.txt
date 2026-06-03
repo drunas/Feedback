@@ -9,7 +9,7 @@
 8	VetluzhskikhYS	-+++	-+++	++++xx		
 9	GuliayevKA	++++	+-++	++++		
 10	DyachenkoAM			++++		
-11	MitrokhinaLV	+-+-	+---	+-++		
+11	MitrokhinaLV	+-+-	++++	+-++		
 12	PavlovNikV	+++-	+-+-	+++-		
 13	PeredinKV	++++	++++	++++		
 14	PlatitsinMM	-+++	++++	++++		
