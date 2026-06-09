@@ -17,4 +17,4 @@
 16	FedosenkoMI	++-	++-+	++++		
 17	KheysinPV	--+	-++-	++++		
 18	ShtrinevaYR	+-+	+-+-	++++xx		
-19	StepanovMarA	+---		+++-		
+19	StepanovMarA	----		+++-		
