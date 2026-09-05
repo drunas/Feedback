@@ -1,9 +1,0 @@
-ProkhorovVS	0
-LobovaVA	0
-TrishkinSL	2	5
-LiapidovskyaDS	2	5
-StukalenkoYA	0	2
-BogomolovIA	0	2
-AmirovRusR	2	5
-SkvortsovKK	0
-AbramovYarI	3
