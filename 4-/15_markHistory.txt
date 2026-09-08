@@ -1,0 +1,18 @@
+		KM1	KM2	KM3	KM4	KM5
+1	AlemasovAA					
+2	AkhmedovJM					
+3	BeloborodovaSA					
+4	GribanovMI					
+5	ZakharovID					
+6	IxanovIR					
+7	KotsubaPV					
+8	LaperchukSV					
+9	LesinNS					
+10	LiuTsz					
+11	PetrushinIgS					
+12	PonomarevaSY					
+13	StashenkoTI					
+14	SunTz					
+15	SunYaos					
+16	FominaYekV					
+17	KhoG					
