@@ -7,7 +7,7 @@
 6	IxanovIR					
 7	KotsubaPV					
 8	LaperchukSV					
-9	LesinNS					
+9	LesinNS	09.25,				
 10	LiuTsz					
 11	PetrushinIgS					
 12	PonomarevaSY					
