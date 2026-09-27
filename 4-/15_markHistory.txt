@@ -6,7 +6,7 @@
 5	ZakharovID					
 6	IxanovIR					
 7	KotsubaPV					
-8	LaperchukSV					
+8	LaperchukSV	09.27,				
 9	LesinNS	09.25,				
 10	LiuTsz					
 11	PetrushinIgS					
