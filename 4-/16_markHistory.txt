@@ -1,0 +1,18 @@
+		KM1	KM2	KM3	KM4	KM5
+1	BorodinNikA					
+2	DonevaUD					
+3	ZhukovValV					
+4	KarpukhinPD					
+5	KichikovFS					
+6	KokunovIA					
+7	KolechenkovKD					
+8	LastochkinKE					
+9	LukoninaAV					
+10	LiapinaIM					
+11	MozgolovIA					
+12	PoliakovDA					
+13	SolovyevaVA					
+14	SpektorXI					
+15	FokinaYY					
+16	ChinnovAV					
+17	ShchurovMI					
