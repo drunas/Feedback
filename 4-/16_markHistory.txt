@@ -4,7 +4,7 @@
 3	ZhukovValV					
 4	KarpukhinPD					
 5	KichikovFS					
-6	KokunovIA					
+6	KokunovIA	09.30,				
 7	KolechenkovKD					
 8	LastochkinKE					
 9	LukoninaAV					
