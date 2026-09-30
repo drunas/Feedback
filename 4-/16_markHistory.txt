@@ -7,7 +7,7 @@
 6	KokunovIA	09.30,				
 7	KolechenkovKD					
 8	LastochkinKE					
-9	LukoninaAV					
+9	LukoninaAV	09.30,				
 10	LiapinaIM					
 11	MozgolovIA					
 12	PoliakovDA					
