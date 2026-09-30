@@ -12,7 +12,7 @@
 11	MozgolovIA					
 12	PoliakovDA					
 13	SolovyevaVA					
-14	SpektorXI					
+14	SpektorXI	09.30,				
 15	FokinaYY					
 16	ChinnovAV					
 17	ShchurovMI					
