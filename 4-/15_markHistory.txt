@@ -11,7 +11,7 @@
 10	LiuTsz					
 11	PetrushinIgS	09.27,09.27,				
 12	PonomarevaSY					
-13	StashenkoTI	09.12,				
+13	StashenkoTI	09.12,10.01,				
 14	SunTz					
 15	SunYaos					
 16	FominaYekV	09.27,				
