@@ -11,7 +11,7 @@
 10	LiapinaIM	10.02,				
 11	MozgolovIA					
 12	PoliakovDA					
-13	SolovyevaVA					
+13	SolovyevaVA	10.02,				
 14	SpektorXI	09.30,				
 15	FokinaYY	10.02,				
 16	ChinnovAV					

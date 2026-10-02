@@ -12,7 +12,7 @@
 11	MorozovaKO					
 12	OrlovMM					
 13	ProkhorovVS					
-14	TimashovaOV					
+14	TimashovaOV	10.02,				
 15	TrishkinSL					
 16	TukhvatullinAI					
 17	ShevchenkoValV					
