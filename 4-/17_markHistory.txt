@@ -15,4 +15,4 @@
 14	TimashovaOV	10.02,				
 15	TrishkinSL					
 16	TukhvatullinAI	10.02,				
-17	ShevchenkoValV					
+17	ShevchenkoValV	10.02,				
