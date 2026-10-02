@@ -4,7 +4,7 @@
 3	BeloborodovaSA					
 4	GribanovMI					
 5	ZakharovID					
-6	IxanovIR					
+6	IxanovIR	10.02,				
 7	KotsubaPV	10.01,				
 8	LaperchukSV	09.27,				
 9	LesinNS	09.25,				
