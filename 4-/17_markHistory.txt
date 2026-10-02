@@ -4,7 +4,7 @@
 3	BaulinaAY					
 4	GolubinskyaAS	10.01,				
 5	GorokhovtsevGA					
-6	ZhidkovDS					
+6	ZhidkovDS	10.02,				
 7	KalutskikhNS					
 8	KuzminaPA					
 9	LobovaVA					
