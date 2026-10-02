@@ -1,6 +1,6 @@
 		KM1	KM2	KM3	KM4	KM5
 1	BorodinNikA					
-2	DonevaUD					
+2	DonevaUD	10.02,				
 3	ZhukovValV					
 4	KarpukhinPD					
 5	KichikovFS					
