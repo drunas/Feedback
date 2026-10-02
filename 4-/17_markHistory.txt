@@ -1,6 +1,6 @@
 		KM1	KM2	KM3	KM4	KM5
 1	AbramovYarI					
-2	AmirovRusR					
+2	AmirovRusR	10.02,				
 3	BaulinaAY					
 4	GolubinskyaAS	10.01,				
 5	GorokhovtsevGA					
