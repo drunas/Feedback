@@ -1,0 +1,14 @@
+		KM1	KM2	KM3	KM4	KM5
+1	GusevDO	2225	35			
+2	DuganovAA	25	5			
+3	DyachenkoSA	5	32345			
+4	ZherlitsynBS	2345	25			
+5	KonyginVal	5	5			
+6	MikhailovAlM	244225	334325			
+7	NovikovADm					
+8	PapoyanYS	225	5			
+9	PrimachenkoIR	325	45			
+10	SargsianTA	45	35			
+11	SerganovAD	4	5			
+12	TomilovVY	5	335			
+13	FedoseevDenV	5				

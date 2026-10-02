@@ -1,0 +1,15 @@
+		KM1	KM2	KM3	KM4	KM5
+1	AlexeevAA	5	3345			
+2	VasilyevLA	5				
+3	DedovKS					
+4	YevdokimovOK	23355	335			
+5	YevsineykinSI	35	5			
+6	ZalpovVN	35444453355	33425			
+7	ZolotariovaDV	4	5			
+8	LeonovIV	53534455	442			
+9	MiagkovaYN	3	33223325			
+10	PakhninAS					
+11	SenkinAV	33	5			
+12	SivodedMO					
+13	SokolovSA					
+14	FedorenkoNF	455	455			

@@ -1,0 +1,14 @@
+		KM1	KM2	KM3	KM4	KM5
+1	GusevDO	++++++	++++++			
+2	DuganovAA	++++++	++++++			
+3	DyachenkoSA	++++++	++++++			
+4	ZherlitsynBS	++++++	++++++			
+5	KonyginVal	++++++	++++++			
+6	MikhailovAlM	++++++	++++++			
+7	NovikovADm					
+8	PapoyanYS	++++++	++++++			
+9	PrimachenkoIR	++++++	++++++			
+10	SargsianTA	++++++	++++++			
+11	SerganovAD	++++-+	++++++			
+12	TomilovVY	++++++	++++++			
+13	FedoseevDenV	++++++				

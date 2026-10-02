@@ -1,0 +1,15 @@
+		KM1	KM2	KM3	KM4	KM5
+1	DemidovaAD	23	4335			
+2	DiakinNS	4434	5			
+3	ZhilinAI	235	4			
+4	KirillovAnS	4444435	445			
+5	KkhantKh		2			
+6	MatrosovMS	222225	2224			
+7	MelikhovSV	4				
+8	PervoykinVV	224	334			
+9	PrituzovAD	223	25			
+10	SenokosovVA	25	45			
+11	SolminovIS	5				
+12	SushkovaUA	5	434445			
+13	TrushinT	5	5			
+14	FedosenkoMI	443244242425	34			
