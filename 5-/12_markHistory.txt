@@ -3,13 +3,13 @@
 2	DiakinNS	4434	5			
 3	ZhilinAI	235	4			
 4	KirillovAnS	4444435	445			
-5	KkhantKh		25			
+5	KkhantKh	4	25			
 6	MatrosovMS	222225	2224			
 7	MelikhovSV	4				
 8	PervoykinVV	224	334			
 9	PrituzovAD	223	25			
 10	SenokosovVA	25	45			
-11	SolminovIS	5				
+11	SolminovIS	5	2			
 12	SushkovaUA	5	434445			
 13	TrushinT	5	5			
 14	FedosenkoMI	443244242425	34			
