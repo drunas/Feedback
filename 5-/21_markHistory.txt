@@ -1,6 +1,6 @@
 		KM1	KM2	KM3	KM4	KM5
 1	AlexeevAA	5	3345			
-2	VasilyevLA	5				
+2	VasilyevLA	5	5			
 3	DedovKS					
 4	YevdokimovOK	23355	335			
 5	YevsineykinSI	35	5			
