@@ -14,5 +14,5 @@
 13	SolovyevaVA	10.02,				
 14	SpektorXI	09.30,				
 15	FokinaYY	10.02,				
-16	ChinnovAV					
+16	ChinnovAV	10.04,				
 17	ShchurovMI					
