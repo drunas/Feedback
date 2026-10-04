@@ -2,7 +2,7 @@
 1	BorodinNikA					
 2	DonevaUD	10.02,				
 3	ZhukovValV					
-4	KarpukhinPD					
+4	KarpukhinPD	10.04,				
 5	KichikovFS					
 6	KokunovIA	09.30,				
 7	KolechenkovKD	10.01,				
