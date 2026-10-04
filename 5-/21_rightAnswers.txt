@@ -10,6 +10,6 @@
 9	MiagkovaYN	+++-+-	++++++			
 10	PakhninAS					
 11	SenkinAV	+-++-+	++++++			
-12	SivodedMO					
+12	SivodedMO	++-+-+	++-+++			
 13	SokolovSA					
 14	FedorenkoNF	++++++	++++++			
