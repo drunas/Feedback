@@ -12,5 +12,5 @@
 11	SidorovIA	5	5			
 12	SobolevAnS	4	4			
 13	SubbotinDR	5	5			
-14	UlyanovaYas	324	2			
+14	UlyanovaYas	324	22			
 15	YartsevDA	255	45			
