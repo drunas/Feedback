@@ -11,4 +11,4 @@
 10	SargsianTA	++++++	++++++			
 11	SerganovAD	++++-+	++++++			
 12	TomilovVY	++++++	++++++			
-13	FedoseevDenV	++++++				
+13	FedoseevDenV	++++++	++--+-			

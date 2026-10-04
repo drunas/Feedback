@@ -11,4 +11,4 @@
 10	SargsianTA	45	35			
 11	SerganovAD	4	5			
 12	TomilovVY	5	335			
-13	FedoseevDenV	5				
+13	FedoseevDenV	5	3			
