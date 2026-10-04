@@ -1,7 +1,7 @@
 		KM1	KM2	KM3	KM4	KM5
 1	AlemasovAA	09.28,				
 2	AkhmedovJM					
-3	BeloborodovaSA					
+3	BeloborodovaSA	10.04,				
 4	GribanovMI					
 5	ZakharovID					
 6	IxanovIR	10.02,				
