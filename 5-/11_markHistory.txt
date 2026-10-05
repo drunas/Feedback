@@ -4,7 +4,7 @@
 3	DyachenkoSA	5	32345			
 4	ZherlitsynBS	2345	25			
 5	KonyginVal	5	5			
-6	MikhailovAlM	244225	334325			
+6	MikhailovAlM	244225	334325	3		
 7	NovikovADm					
 8	PapoyanYS	225	5			
 9	PrimachenkoIR	325	45			

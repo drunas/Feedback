@@ -4,7 +4,7 @@
 3	DyachenkoSA	++++++	++++++			
 4	ZherlitsynBS	++++++	++++++			
 5	KonyginVal	++++++	++++++			
-6	MikhailovAlM	++++++	++++++			
+6	MikhailovAlM	++++++	++++++	++-+--		
 7	NovikovADm					
 8	PapoyanYS	++++++	++++++			
 9	PrimachenkoIR	++++++	++++++			
