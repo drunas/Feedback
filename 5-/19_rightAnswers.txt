@@ -4,7 +4,7 @@
 3	YolchevAD	++++++	++++++			
 4	YemelyanovRS	+++++-	++++++			
 5	KiriushinNI	++++++	++++++	------		
-6	KozlovaVV	++++++	++++++			
+6	KozlovaVV	++++++	++++++	++++++		
 7	LiagusOA	++++++	++++++			
 8	MartynenkoIA	-+++++	+++++-			
 9	PavlovNA	++++++	++++++			
