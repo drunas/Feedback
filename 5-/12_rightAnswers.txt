@@ -9,7 +9,7 @@
 8	PervoykinVV	+++-++	++++-+			
 9	PrituzovAD	++--+-	++++++	+-++--		
 10	SenokosovVA	++++++	++++++			
-11	SolminovIS	++++++	------			
+11	SolminovIS	++++++	------	++++++		
 12	SushkovaUA	++++++	++++++			
 13	TrushinT	++++++	++++++			
 14	FedosenkoMI	++++++	++-+++			
