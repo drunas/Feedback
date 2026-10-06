@@ -6,7 +6,7 @@
 5	YevsineykinSI	35	5			
 6	ZalpovVN	35444453355	33425			
 7	ZolotariovaDV	4	5			
-8	LeonovIV	53534455	442			
+8	LeonovIV	53534455	4424			
 9	MiagkovaYN	3	33223325			
 10	PakhninAS					
 11	SenkinAV	33	5			

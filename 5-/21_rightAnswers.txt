@@ -6,7 +6,7 @@
 5	YevsineykinSI	++++++	++++++			
 6	ZalpovVN	++++++	++++++			
 7	ZolotariovaDV	++-+++	++++++			
-8	LeonovIV	++++++	------			
+8	LeonovIV	++++++	+++++-			
 9	MiagkovaYN	+++-+-	++++++			
 10	PakhninAS					
 11	SenkinAV	+-++-+	++++++			
