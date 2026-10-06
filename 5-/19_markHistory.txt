@@ -11,6 +11,6 @@
 10	PotapkinBY	235	2223345			
 11	SidorovIA	5	5			
 12	SobolevAnS	4	4			
-13	SubbotinDR	5	5			
+13	SubbotinDR	5	5	2		
 14	UlyanovaYas	324	222			
 15	YartsevDA	255	45			

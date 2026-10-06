@@ -11,6 +11,6 @@
 10	PotapkinBY	++++++	++++++			
 11	SidorovIA	++++++	++++++			
 12	SobolevAnS	+++-++	++++-+			
-13	SubbotinDR	++++++	++++++			
+13	SubbotinDR	++++++	++++++	------		
 14	UlyanovaYas	++++-+	------			
 15	YartsevDA	++++++	++++++			
