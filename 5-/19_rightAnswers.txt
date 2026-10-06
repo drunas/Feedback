@@ -1,7 +1,7 @@
 		KM1	KM2	KM3	KM4	KM5
 1	BeketovaYI					
 2	BondarevAnA	++++++	++-+++			
-3	YolchevAD	++++++	++++++			
+3	YolchevAD	++++++	++++++	++++++		
 4	YemelyanovRS	+++++-	++++++			
 5	KiriushinNI	++++++	++++++	------		
 6	KozlovaVV	++++++	++++++	++++++		
