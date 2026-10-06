@@ -7,7 +7,7 @@
 6	MatrosovMS	++++++	-+++++			
 7	MelikhovSV	+-++++				
 8	PervoykinVV	+++-++	++++-+			
-9	PrituzovAD	++--+-	++++++			
+9	PrituzovAD	++--+-	++++++	-+++--		
 10	SenokosovVA	++++++	++++++			
 11	SolminovIS	++++++	------			
 12	SushkovaUA	++++++	++++++			
