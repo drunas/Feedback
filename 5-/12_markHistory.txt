@@ -11,5 +11,5 @@
 10	SenokosovVA	25	45			
 11	SolminovIS	5	23	55		
 12	SushkovaUA	5	434445			
-13	TrushinT	5	5	352		
+13	TrushinT	5	5	3524		
 14	FedosenkoMI	443244242425	34			
