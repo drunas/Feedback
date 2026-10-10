@@ -2,7 +2,7 @@
 1	BeketovaYI					
 2	BondarevAnA	++++++	++-+++			
 3	YolchevAD	++++++	++++++	-+++++		
-4	YemelyanovRS	+++++-	++++++			
+4	YemelyanovRS	+++++-	++++++	++++++		
 5	KiriushinNI	++++++	++++++	+++-++		
 6	KozlovaVV	++++++	++++++	+++-++		
 7	LiagusOA	++++++	++++++	++--++		
