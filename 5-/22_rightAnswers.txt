@@ -3,7 +3,7 @@
 2	AltukhovaGA	++++++	++++++	++++++		
 3	BabayevYA	++++++	++++++	-+++++		
 4	BelikovNY	++++++	++++++	++++++		
-5	BeloglazovKA	++++++	++++++	++-+--		
+5	BeloglazovKA	++++++	++++++	+-++++		
 6	BobrovMI	+-+++-	+++-++	------		
 7	BorodinNA	++++++	+-++++			
 8	VetluzhskikhYS	++++++	++++++	++++++		
