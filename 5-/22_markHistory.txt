@@ -11,7 +11,7 @@
 10	MitrokhinaLV	434	3			
 11	PavlovNikV	3				
 12	PeredinKV	444	4			
-13	PlatitsinMM	25	4445	3		
+13	PlatitsinMM	25	4445	33		
 14	RepinNI	55	35			
 15	SalnikovaKA	5	5			
 16	SvirinIM	2445	5			
