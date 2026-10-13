@@ -2,7 +2,7 @@
 1	BeketovaYI					
 2	BondarevAnA	5	4			
 3	YolchevAD	5	5	5354		
-4	YemelyanovRS	4	5	53		
+4	YemelyanovRS	4	5	534		
 5	KiriushinNI	25	435	234455		
 6	KozlovaVV	4345	445	5354		
 7	LiagusOA	5	35	454354		
@@ -13,4 +13,4 @@
 12	SobolevAnS	4	4	44		
 13	SubbotinDR	5	5	244		
 14	UlyanovaYas	324	2224	3443344		
-15	YartsevDA	255	45	5		
+15	YartsevDA	255	45	55		

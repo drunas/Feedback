@@ -1,5 +1,5 @@
 		KM1	KM2	KM3	KM4	KM5
-1	DemidovaAD	-+-+-+	++++++	++-+++		
+1	DemidovaAD	-+-+-+	++++++	+++-++		
 2	DiakinNS	-+++++	++++++			
 3	ZhilinAI	++++++	-+++++	++++++		
 4	KirillovAnS	++++++	++++++	++++++		
