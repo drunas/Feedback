@@ -14,5 +14,5 @@
 13	PlatitsinMM	25	4445	33		
 14	RepinNI	55	35			
 15	SalnikovaKA	5	5			
-16	SvirinIM	2445	5			
+16	SvirinIM	2445	5	4		
 17	KhomichAK	224	4			
