@@ -8,7 +8,7 @@
 7	LiagusOA	5	35	454354		
 8	MartynenkoIA	4	4	4255		
 9	PavlovNA	35	25	55		
-10	PotapkinBY	235	2223345			
+10	PotapkinBY	235	2223345	4		
 11	SidorovIA	5	5			
 12	SobolevAnS	4	4	44		
 13	SubbotinDR	5	5	244		
