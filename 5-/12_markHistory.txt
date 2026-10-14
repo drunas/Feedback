@@ -12,4 +12,4 @@
 11	SolminovIS	5	23	55		
 12	SushkovaUA	5	434445	44		
 13	TrushinT	5	5	3524		
-14	FedosenkoMI	443244242425	34			
+14	FedosenkoMI	443244242425	34	5		

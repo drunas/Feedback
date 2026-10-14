@@ -12,4 +12,4 @@
 11	SolminovIS	++++++	-+-+++	++++++		
 12	SushkovaUA	++++++	++++++	++++-+		
 13	TrushinT	++++++	++++++	+-++++		
-14	FedosenkoMI	++++++	++-+++			
+14	FedosenkoMI	++++++	++-+++	++++++		
