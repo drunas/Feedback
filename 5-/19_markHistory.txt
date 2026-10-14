@@ -4,7 +4,7 @@
 3	YolchevAD	5	5	5354		
 4	YemelyanovRS	4	5	534		
 5	KiriushinNI	25	435	234455		
-6	KozlovaVV	4345	445	5354		
+6	KozlovaVV	4345	445	53544		
 7	LiagusOA	5	35	454354		
 8	MartynenkoIA	4	4	4255		
 9	PavlovNA	35	25	5		
