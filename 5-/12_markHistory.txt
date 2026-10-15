@@ -7,9 +7,9 @@
 6	MatrosovMS	222225	2224			
 7	MelikhovSV	4				
 8	PervoykinVV	224	334			
-9	PrituzovAD	223	25	33333		
+9	PrituzovAD	223	25	333333		
 10	SenokosovVA	25	45	234		
 11	SolminovIS	5	23	55		
 12	SushkovaUA	5	434445	44		
-13	TrushinT	5	5	3524		
+13	TrushinT	5	5	35244		
 14	FedosenkoMI	443244242425	34	55		
