@@ -6,7 +6,7 @@
 5	KonyginVal	++++++	++++++			
 6	MikhailovAlM	++++++	++++++	++-+--		
 7	NovikovADm					
-8	PapoyanYS	++++++	++++++			
+8	PapoyanYS	++++++	++++++	+--+++		
 9	PrimachenkoIR	++++++	++++++			
 10	SargsianTA	++++++	++++++			
 11	SerganovAD	++++-+	++++++			
