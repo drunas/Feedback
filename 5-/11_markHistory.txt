@@ -1,6 +1,6 @@
 		KM1	KM2	KM3	KM4	KM5
 1	GusevDO	2225	35	4		
-2	DuganovAA	25	5			
+2	DuganovAA	25	5	5		
 3	DyachenkoSA	5	32345			
 4	ZherlitsynBS	2345	25			
 5	KonyginVal	5	5			
