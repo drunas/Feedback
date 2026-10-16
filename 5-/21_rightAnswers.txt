@@ -3,7 +3,7 @@
 2	VasilyevLA	++++++	++++++			
 3	DedovKS					
 4	YevdokimovOK	++++++	++++++	++--++		
-5	YevsineykinSI	++++++	++++++			
+5	YevsineykinSI	++++++	++++++	-++++-		
 6	ZalpovVN	++++++	++++++	++++-+		
 7	ZolotariovaDV	++-+++	++++++			
 8	LeonovIV	++++++	+++++-			
