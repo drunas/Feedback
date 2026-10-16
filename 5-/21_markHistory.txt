@@ -2,8 +2,8 @@
 1	AlexeevAA	5	3345	5		
 2	VasilyevLA	5	5			
 3	DedovKS					
-4	YevdokimovOK	23355	335	535		
-5	YevsineykinSI	35	5	34		
+4	YevdokimovOK	23355	335	5355		
+5	YevsineykinSI	35	5	345		
 6	ZalpovVN	35444453355	33425	454		
 7	ZolotariovaDV	4	5			
 8	LeonovIV	53534455	4424			
