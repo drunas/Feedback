@@ -9,6 +9,6 @@
 8	PapoyanYS	225	5	355		
 9	PrimachenkoIR	325	45			
 10	SargsianTA	45	35			
-11	SerganovAD	4	5	4354		
+11	SerganovAD	4	5	43545		
 12	TomilovVY	5	335	44		
 13	FedoseevDenV	5	3	433		

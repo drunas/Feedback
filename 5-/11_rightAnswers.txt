@@ -9,6 +9,6 @@
 8	PapoyanYS	++++++	++++++	++++++		
 9	PrimachenkoIR	++++++	++++++			
 10	SargsianTA	++++++	++++++			
-11	SerganovAD	++++-+	++++++	+++-++		
+11	SerganovAD	++++-+	++++++	++++++		
 12	TomilovVY	++++++	++++++	+++-++		
 13	FedoseevDenV	++++++	++--+-	+++-+-		
