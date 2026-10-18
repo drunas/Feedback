@@ -9,7 +9,7 @@
 8	MartynenkoIA	-+++++	+++++-	++++++		
 9	PavlovNA	++++++	++++++	++++++		
 10	PotapkinBY	++++++	++++++	+++-++		
-11	SidorovIA	++++++	++++++	-+++-+		
+11	SidorovIA	++++++	++++++	------		
 12	SobolevAnS	+++-++	++++-+	++++-+		
 13	SubbotinDR	++++++	++++++	++-+++		
 14	UlyanovaYas	++++-+	+++-++	+-++++		
