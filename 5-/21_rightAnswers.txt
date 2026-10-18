@@ -12,4 +12,4 @@
 11	SenkinAV	+-++-+	++++++			
 12	SivodedMO	++-+-+	++-+++			
 13	SokolovSA					
-14	FedorenkoNF	++++++	++++++	------		
+14	FedorenkoNF	++++++	++++++	++++++		
