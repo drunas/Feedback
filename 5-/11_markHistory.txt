@@ -8,7 +8,7 @@
 7	NovikovADm					
 8	PapoyanYS	225	5	355		
 9	PrimachenkoIR	325	45			
-10	SargsianTA	45	35	4		
+10	SargsianTA	45	35	45		
 11	SerganovAD	4	5	435455		
 12	TomilovVY	5	335	44		
 13	FedoseevDenV	5	3	433		
