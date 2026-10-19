@@ -5,12 +5,12 @@
 4	BelikovNY	++++++	++++++	++++++		
 5	BeloglazovKA	++++++	++++++	++++++		
 6	BobrovMI	+-+++-	+++-++	++-+-+		
-7	BorodinNA	++++++	+-++++			
+7	BorodinNA	++++++	+-++++	+-++-+		
 8	VetluzhskikhYS	++++++	++++++	++++++		
 9	GuliayevKA	-+++++	++++++	--++++		
 10	MitrokhinaLV	+++-++	++-++-			
 11	PavlovNikV	-++-++				
-12	PeredinKV	+++++-	++++-+	+++++-		
+12	PeredinKV	+++++-	++++-+	+-++++		
 13	PlatitsinMM	++++++	++++++	--++++		
 14	RepinNI	++++++	++++++	++++++		
 15	SalnikovaKA	++++++	++++++	+++-++		

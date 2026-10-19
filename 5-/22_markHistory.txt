@@ -5,12 +5,12 @@
 4	BelikovNY	43345	5	45		
 5	BeloglazovKA	5	5	345		
 6	BobrovMI	23	4	2243		
-7	BorodinNA	55	4			
+7	BorodinNA	55	4	3		
 8	VetluzhskikhYS	325	3335	55		
 9	GuliayevKA	24	5	323		
 10	MitrokhinaLV	434	3			
 11	PavlovNikV	3				
-12	PeredinKV	444	4	4		
+12	PeredinKV	444	4	44		
 13	PlatitsinMM	25	4445	33		
 14	RepinNI	55	35	55		
 15	SalnikovaKA	5	5	44		
