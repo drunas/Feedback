@@ -1,5 +1,5 @@
 		KM1	KM2	KM3	KM4	KM5
-1	AverinPB	4	2	3		
+1	AverinPB	4	2	35		
 2	AltukhovaGA	33445	35	45		
 3	BabayevYA	5	5	44		
 4	BelikovNY	43345	5	45		
@@ -10,7 +10,7 @@
 9	GuliayevKA	24	5	323		
 10	MitrokhinaLV	434	3			
 11	PavlovNikV	3				
-12	PeredinKV	444	4			
+12	PeredinKV	444	4	4		
 13	PlatitsinMM	25	4445	33		
 14	RepinNI	55	35	55		
 15	SalnikovaKA	5	5	44		
