@@ -10,6 +10,6 @@
 9	PrituzovAD	223	25	3333333		
 10	SenokosovVA	25	45	234344		
 11	SolminovIS	5	23	55		
-12	SushkovaUA	5	434445	44344		
+12	SushkovaUA	5	434445	443445		
 13	TrushinT	5	5	35244		
 14	FedosenkoMI	443244242425	34	55		
