@@ -2,7 +2,7 @@
 1	GusevDO	2225	35	45		
 2	DuganovAA	25	5	55		
 3	DyachenkoSA	5	32345	3355		
-4	ZherlitsynBS	2345	25			
+4	ZherlitsynBS	2345	25	5		
 5	KonyginVal	5	5	44		
 6	MikhailovAlM	244225	334325	3355		
 7	NovikovADm					
