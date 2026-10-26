@@ -1,18 +1,18 @@
 		KM1	KM2	KM3	KM4	KM5
-1	AlemasovAA	09.28,				
+1	AlemasovAA	09.28,	10.26,			
 2	AkhmedovJM					
-3	BeloborodovaSA	10.04,10.19,				
-4	GribanovMI					
-5	ZakharovID					
-6	IxanovIR	10.02,				
-7	KotsubaPV	10.01,				
-8	LaperchukSV	09.27,				
-9	LesinNS	09.25,				
+3	BeloborodovaSA	10.04,				
+4	GribanovMI		10.26,			
+5	ZakharovID		10.26,			
+6	IxanovIR	10.02,	10.26,10.26,			
+7	KotsubaPV	10.01,	10.26,			
+8	LaperchukSV	09.27,	10.26,			
+9	LesinNS	09.25,	10.26,			
 10	LiuTsz					
-11	PetrushinIgS	09.27,09.27,				
-12	PonomarevaSY					
-13	StashenkoTI	09.12,10.01,				
+11	PetrushinIgS	09.27,09.27,	10.26,			
+12	PonomarevaSY		10.26,			
+13	StashenkoTI	09.12,10.01,	10.26,10.26,			
 14	SunTz					
 15	SunYaos					
-16	FominaYekV	09.27,				
+16	FominaYekV	09.27,	10.26,			
 17	KhoG					
