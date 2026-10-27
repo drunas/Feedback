@@ -8,7 +8,7 @@
 7	BorodinNA	55	4	355		
 8	VetluzhskikhYS	325	3335	55		
 9	GuliayevKA	24	5	3234		
-10	MitrokhinaLV	434	32			
+10	MitrokhinaLV	434	32	3		
 11	PavlovNikV	3				
 12	PeredinKV	444	4	44		
 13	PlatitsinMM	25	4445	33244		
