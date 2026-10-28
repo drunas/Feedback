@@ -15,4 +15,4 @@
 14	RepinNI	55	35	55		
 15	SalnikovaKA	5	5	44		
 16	SvirinIM	2445	5	44454		
-17	KhomichAK	224	4	5	2	
+17	KhomichAK	224	4	53	2	
