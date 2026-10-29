@@ -2,7 +2,7 @@
 1	DemidovaAD	-+-+-+	++++++	+++-++		
 2	DiakinNS	-+++++	++++++	++++++		
 3	ZhilinAI	++++++	-+++++	++++++		
-4	KirillovAnS	++++++	++++++	++++++	--+---	
+4	KirillovAnS	++++++	++++++	++++++	----+-	
 5	KkhantKh	+++-++	++++++	+++++-		
 6	MatrosovMS	++++++	-+++++			
 7	MelikhovSV	+-++++				
