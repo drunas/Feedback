@@ -2,7 +2,7 @@
 1	GusevDO	++++++	++++++	++++++		
 2	DuganovAA	++++++	++++++	++++++		
 3	DyachenkoSA	++++++	++++++	++++++		
-4	ZherlitsynBS	++++++	++++++	++++++		
+4	ZherlitsynBS	++++++	++++++	-+++++		
 5	KonyginVal	++++++	++++++	+-++++		
 6	MikhailovAlM	++++++	++++++	++++++		
 7	NovikovADm					
