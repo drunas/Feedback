@@ -10,7 +10,7 @@
 9	GuliayevKA	-+++++	++++++	+++-++		
 10	MitrokhinaLV	+++-++	------	-++++-		
 11	PavlovNikV	-++-++				
-12	PeredinKV	+++++-	++++-+	+-++++	--++-+	
+12	PeredinKV	+++++-	++++-+	+-++++	+-+-+-	
 13	PlatitsinMM	++++++	++++++	-+++++	-+--+-	
 14	RepinNI	++++++	++++++	++++++		
 15	SalnikovaKA	++++++	++++++	+++-++		
