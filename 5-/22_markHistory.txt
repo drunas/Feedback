@@ -1,5 +1,5 @@
 		KM1	KM2	KM3	KM4	KM5
-1	AverinPB	4	2	353	22	
+1	AverinPB	4	2	353	222	
 2	AltukhovaGA	33445	35	45	33	
 3	BabayevYA	5	5	44	22233	
 4	BelikovNY	43345	5	45	2	
@@ -15,4 +15,4 @@
 14	RepinNI	55	35	55		
 15	SalnikovaKA	5	5	44		
 16	SvirinIM	2445	5	44454	3222	
-17	KhomichAK	224	4	53	23	
+17	KhomichAK	224	4	53	233	
