@@ -4,7 +4,7 @@
 3	BabayevYA	5	5	44	22233	
 4	BelikovNY	43345	5	45	222233	
 5	BeloglazovKA	5	5	345	33	
-6	BobrovMI	23	4	2243	22232222	
+6	BobrovMI	23	4	2243	222322222	
 7	BorodinNA	55	4	355	2233	
 8	VetluzhskikhYS	325	3335	55	34	
 9	GuliayevKA	24	5	3234		
