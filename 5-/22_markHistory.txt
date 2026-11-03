@@ -3,7 +3,7 @@
 2	AltukhovaGA	33445	35	45	33	
 3	BabayevYA	5	5	44	22233	
 4	BelikovNY	43345	5	45	2222	
-5	BeloglazovKA	5	5	345	3	
+5	BeloglazovKA	5	5	345	33	
 6	BobrovMI	23	4	2243	222322	
 7	BorodinNA	55	4	355	2233	
 8	VetluzhskikhYS	325	3335	55	34	
