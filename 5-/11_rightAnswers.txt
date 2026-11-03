@@ -2,7 +2,7 @@
 1	GusevDO	++++++	++++++	++++++	--+-+-	
 2	DuganovAA	++++++	++++++	++++++		
 3	DyachenkoSA	++++++	++++++	++++++		
-4	ZherlitsynBS	++++++	++++++	-+++++	++++++	
+4	ZherlitsynBS	++++++	++++++	-+++++	+++-++	
 5	KonyginVal	++++++	++++++	+-++++		
 6	MikhailovAlM	++++++	++++++	++++++		
 7	NovikovADm					
@@ -10,5 +10,5 @@
 9	PrimachenkoIR	++++++	++++++	++++++	-+--+-	
 10	SargsianTA	++++++	++++++	++++++		
 11	SerganovAD	++++-+	++++++	++++++		
-12	TomilovVY	++++++	++++++	+++-++		
+12	TomilovVY	++++++	++++++	+++-++	-+-++-	
 13	FedoseevDenV	++++++	++--+-	++++++	-+++++	
