@@ -9,7 +9,7 @@
 8	LaperchukSV	09.27,	10.26,			
 9	LesinNS	09.25,	10.26,			
 10	LiuTsz					
-11	PetrushinIgS	09.27,09.27,	10.26,			
+11	PetrushinIgS	09.27,09.27,	10.26,11.05,			
 12	PonomarevaSY		10.26,			
 13	StashenkoTI	09.12,10.01,	10.26,10.26,			
 14	SunTz					
