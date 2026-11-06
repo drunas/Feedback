@@ -9,7 +9,7 @@
 8	LastochkinKE					
 9	LukoninaAV	09.30,	10.26,			
 10	LiapinaIM	10.02,	10.26,			
-11	MozgolovIA					
+11	MozgolovIA		11.06,			
 12	PoliakovDA	10.24,	10.26,			
 13	SolovyevaVA	10.02,10.23,	10.26,			
 14	SpektorXI	09.30,11.01,	10.26,			
