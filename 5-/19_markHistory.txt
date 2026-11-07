@@ -13,4 +13,4 @@
 12	SobolevAnS	4	4	44		
 13	SubbotinDR	5	5	244	22	
 14	UlyanovaYas	324	2224	3443344		
-15	YartsevDA	255	45	55		
+15	YartsevDA	255	45	55	4	
