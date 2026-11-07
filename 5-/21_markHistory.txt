@@ -12,4 +12,4 @@
 11	SenkinAV	33	5	55	54	
 12	SivodedMO	3	4	4	2245	
 13	SokolovSA					
-14	FedorenkoNF	455	455	3255	24	
+14	FedorenkoNF	455	455	3255	245	
