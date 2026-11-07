@@ -12,7 +12,7 @@
 11	PavlovNikV	3	4	2		
 12	PeredinKV	444	4	44	233	
 13	PlatitsinMM	25	4445	33244	322233	
-14	RepinNI	55	35	55		
+14	RepinNI	55	35	55	5	
 15	SalnikovaKA	5	5	44	55	
 16	SvirinIM	2445	5	44454	322232	
 17	KhomichAK	224	4	53	233	
