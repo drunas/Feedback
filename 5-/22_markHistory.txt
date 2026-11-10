@@ -7,8 +7,8 @@
 6	BobrovMI	23	4	2243	222322222555	
 7	BorodinNA	55	4	355	2233	
 8	VetluzhskikhYS	325	3335	55	34	
-9	GuliayevKA	24	5	3234	32	
-10	MitrokhinaLV	434	32	3	224	
+9	GuliayevKA	24	5	3234	322	
+10	MitrokhinaLV	434	32	3	2245	
 11	PavlovNikV	3	4	2		
 12	PeredinKV	444	4	44	233	
 13	PlatitsinMM	25	4445	33244	322233	
