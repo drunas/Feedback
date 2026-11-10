@@ -6,7 +6,7 @@
 5	KonyginVal	5	5	44	33332	
 6	MikhailovAlM	244225	334325	3355		
 7	NovikovADm					
-8	PapoyanYS	225	5	355	23	
+8	PapoyanYS	225	5	355	233	
 9	PrimachenkoIR	325	45	333345	22222	
 10	SargsianTA	45	35	455		
 11	SerganovAD	4	5	435455		
