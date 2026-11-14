@@ -1,5 +1,5 @@
 		KM1	KM2	KM3	KM4	KM5
-1	AbramovYarI	10.02,	10.26,			
+1	AbramovYarI	10.02,	10.26,			11.14,
 2	AmirovRusR	10.02,	10.26,			
 3	BaulinaAY					
 4	GolubinskyaAS	10.01,	10.26,			
