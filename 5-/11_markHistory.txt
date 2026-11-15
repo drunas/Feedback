@@ -3,12 +3,12 @@
 2	DuganovAA	25	5	55		
 3	DyachenkoSA	5	32345	3355		
 4	ZherlitsynBS	2345	25	54	23433454545	
-5	KonyginVal	5	5	44	33332323	
+5	KonyginVal	5	5	44	333323235	
 6	MikhailovAlM	244225	334325	3355		
 7	NovikovADm					
 8	PapoyanYS	225	5	355	2333	
 9	PrimachenkoIR	325	45	333345	22222	
-10	SargsianTA	45	35	455	23	
+10	SargsianTA	45	35	455	233	
 11	SerganovAD	4	5	435455	3334344445444	
 12	TomilovVY	5	335	44	33	
 13	FedoseevDenV	5	3	433345	2222234	
