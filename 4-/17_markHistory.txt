@@ -4,7 +4,7 @@
 3	BaulinaAY					11.20,
 4	GolubinskyaAS	10.01,	10.26,		11.20,	11.20,
 5	GorokhovtsevGA					
-6	ZhidkovDS	10.02,10.31,	10.31,			11.20,
+6	ZhidkovDS	10.02,10.31,	10.31,		11.21,	11.20,
 7	KalutskikhNS	10.02,	10.29,		11.20,	11.20,
 8	KuzminaPA					
 9	LobovaVA					
@@ -15,4 +15,4 @@
 14	TimashovaOV	10.02,	10.26,		11.20,	11.20,
 15	TrishkinSL					11.20,
 16	TukhvatullinAI	10.02,	10.26,		11.20,	11.20,
-17	ShevchenkoValV	10.02,	10.26,			
+17	ShevchenkoValV	10.02,	10.26,			11.21,
