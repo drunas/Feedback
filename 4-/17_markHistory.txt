@@ -13,6 +13,6 @@
 12	OrlovMM	10.02,	10.31,			
 13	ProkhorovVS					
 14	TimashovaOV	10.02,	10.26,		11.20,	11.20,
-15	TrishkinSL					
+15	TrishkinSL					11.20,
 16	TukhvatullinAI	10.02,	10.26,		11.20,	11.20,
 17	ShevchenkoValV	10.02,	10.26,			
