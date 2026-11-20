@@ -15,4 +15,4 @@
 14	SunTz	11.16,	11.16,			
 15	SunYaos					
 16	FominaYekV	09.27,	10.26,			
-17	KhoG	11.20,				
+17	KhoG	11.20,	11.20,			
