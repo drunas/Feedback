@@ -10,7 +10,7 @@
 9	LobovaVA					
 10	LiapidovskyaDS	10.02,	10.26,			11.21,
 11	MorozovaKO					
-12	OrlovMM	10.02,	10.31,			
+12	OrlovMM	10.02,	10.31,		11.21,	
 13	ProkhorovVS					
 14	TimashovaOV	10.02,	10.26,		11.20,	11.20,
 15	TrishkinSL					11.20,
