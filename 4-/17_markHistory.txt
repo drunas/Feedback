@@ -6,7 +6,7 @@
 5	GorokhovtsevGA					
 6	ZhidkovDS	10.02,10.31,	10.31,		11.21,	11.20,
 7	KalutskikhNS	10.02,	10.29,		11.20,	11.20,
-8	KuzminaPA					
+8	KuzminaPA					11.22,
 9	LobovaVA					
 10	LiapidovskyaDS	10.02,	10.26,		11.21,	11.21,
 11	MorozovaKO					11.21,
