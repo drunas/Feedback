@@ -1,5 +1,5 @@
 		KM1	KM2	KM3	KM4	KM5
-1	AlemasovAA	09.28,	10.26,			11.20,
+1	AlemasovAA	09.28,	10.26,		11.22,	11.20,
 2	AkhmedovJM					
 3	BeloborodovaSA	10.04,10.19,	10.27,			11.21,
 4	GribanovMI	11.03,	10.26,		11.20,11.22,	11.20,
